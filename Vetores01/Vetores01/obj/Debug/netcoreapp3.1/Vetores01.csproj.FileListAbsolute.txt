@@ -1,0 +1,14 @@
+C:\temp\vs-2019\Vetores01\Vetores01\bin\Debug\netcoreapp3.1\Vetores01.exe
+C:\temp\vs-2019\Vetores01\Vetores01\bin\Debug\netcoreapp3.1\Vetores01.deps.json
+C:\temp\vs-2019\Vetores01\Vetores01\bin\Debug\netcoreapp3.1\Vetores01.runtimeconfig.json
+C:\temp\vs-2019\Vetores01\Vetores01\bin\Debug\netcoreapp3.1\Vetores01.runtimeconfig.dev.json
+C:\temp\vs-2019\Vetores01\Vetores01\bin\Debug\netcoreapp3.1\Vetores01.dll
+C:\temp\vs-2019\Vetores01\Vetores01\bin\Debug\netcoreapp3.1\Vetores01.pdb
+C:\temp\vs-2019\Vetores01\Vetores01\obj\Debug\netcoreapp3.1\Vetores01.csproj.AssemblyReference.cache
+C:\temp\vs-2019\Vetores01\Vetores01\obj\Debug\netcoreapp3.1\Vetores01.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\Vetores01\Vetores01\obj\Debug\netcoreapp3.1\Vetores01.AssemblyInfoInputs.cache
+C:\temp\vs-2019\Vetores01\Vetores01\obj\Debug\netcoreapp3.1\Vetores01.AssemblyInfo.cs
+C:\temp\vs-2019\Vetores01\Vetores01\obj\Debug\netcoreapp3.1\Vetores01.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\Vetores01\Vetores01\obj\Debug\netcoreapp3.1\Vetores01.dll
+C:\temp\vs-2019\Vetores01\Vetores01\obj\Debug\netcoreapp3.1\Vetores01.pdb
+C:\temp\vs-2019\Vetores01\Vetores01\obj\Debug\netcoreapp3.1\Vetores01.genruntimeconfig.cache

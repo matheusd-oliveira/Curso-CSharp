@@ -1,0 +1,14 @@
+C:\temp\vs-2019\Beecrowd\1038_Ex2\1038_Ex2\bin\Debug\netcoreapp3.1\1038_Ex2.exe
+C:\temp\vs-2019\Beecrowd\1038_Ex2\1038_Ex2\bin\Debug\netcoreapp3.1\1038_Ex2.deps.json
+C:\temp\vs-2019\Beecrowd\1038_Ex2\1038_Ex2\bin\Debug\netcoreapp3.1\1038_Ex2.runtimeconfig.json
+C:\temp\vs-2019\Beecrowd\1038_Ex2\1038_Ex2\bin\Debug\netcoreapp3.1\1038_Ex2.runtimeconfig.dev.json
+C:\temp\vs-2019\Beecrowd\1038_Ex2\1038_Ex2\bin\Debug\netcoreapp3.1\1038_Ex2.dll
+C:\temp\vs-2019\Beecrowd\1038_Ex2\1038_Ex2\bin\Debug\netcoreapp3.1\1038_Ex2.pdb
+C:\temp\vs-2019\Beecrowd\1038_Ex2\1038_Ex2\obj\Debug\netcoreapp3.1\1038_Ex2.csproj.AssemblyReference.cache
+C:\temp\vs-2019\Beecrowd\1038_Ex2\1038_Ex2\obj\Debug\netcoreapp3.1\1038_Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\Beecrowd\1038_Ex2\1038_Ex2\obj\Debug\netcoreapp3.1\1038_Ex2.AssemblyInfoInputs.cache
+C:\temp\vs-2019\Beecrowd\1038_Ex2\1038_Ex2\obj\Debug\netcoreapp3.1\1038_Ex2.AssemblyInfo.cs
+C:\temp\vs-2019\Beecrowd\1038_Ex2\1038_Ex2\obj\Debug\netcoreapp3.1\1038_Ex2.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\Beecrowd\1038_Ex2\1038_Ex2\obj\Debug\netcoreapp3.1\1038_Ex2.dll
+C:\temp\vs-2019\Beecrowd\1038_Ex2\1038_Ex2\obj\Debug\netcoreapp3.1\1038_Ex2.pdb
+C:\temp\vs-2019\Beecrowd\1038_Ex2\1038_Ex2\obj\Debug\netcoreapp3.1\1038_Ex2.genruntimeconfig.cache

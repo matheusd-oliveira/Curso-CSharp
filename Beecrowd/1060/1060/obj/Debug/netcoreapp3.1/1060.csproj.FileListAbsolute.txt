@@ -1,0 +1,14 @@
+C:\temp\vs-2019\Beecrowd\1060\1060\bin\Debug\netcoreapp3.1\1060.exe
+C:\temp\vs-2019\Beecrowd\1060\1060\bin\Debug\netcoreapp3.1\1060.deps.json
+C:\temp\vs-2019\Beecrowd\1060\1060\bin\Debug\netcoreapp3.1\1060.runtimeconfig.json
+C:\temp\vs-2019\Beecrowd\1060\1060\bin\Debug\netcoreapp3.1\1060.runtimeconfig.dev.json
+C:\temp\vs-2019\Beecrowd\1060\1060\bin\Debug\netcoreapp3.1\1060.dll
+C:\temp\vs-2019\Beecrowd\1060\1060\bin\Debug\netcoreapp3.1\1060.pdb
+C:\temp\vs-2019\Beecrowd\1060\1060\obj\Debug\netcoreapp3.1\1060.csproj.AssemblyReference.cache
+C:\temp\vs-2019\Beecrowd\1060\1060\obj\Debug\netcoreapp3.1\1060.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\Beecrowd\1060\1060\obj\Debug\netcoreapp3.1\1060.AssemblyInfoInputs.cache
+C:\temp\vs-2019\Beecrowd\1060\1060\obj\Debug\netcoreapp3.1\1060.AssemblyInfo.cs
+C:\temp\vs-2019\Beecrowd\1060\1060\obj\Debug\netcoreapp3.1\1060.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\Beecrowd\1060\1060\obj\Debug\netcoreapp3.1\1060.dll
+C:\temp\vs-2019\Beecrowd\1060\1060\obj\Debug\netcoreapp3.1\1060.pdb
+C:\temp\vs-2019\Beecrowd\1060\1060\obj\Debug\netcoreapp3.1\1060.genruntimeconfig.cache

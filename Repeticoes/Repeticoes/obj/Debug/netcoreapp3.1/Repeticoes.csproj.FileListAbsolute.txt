@@ -1,0 +1,14 @@
+C:\temp\vs-2019\Repeticoes\Repeticoes\bin\Debug\netcoreapp3.1\Repeticoes.exe
+C:\temp\vs-2019\Repeticoes\Repeticoes\bin\Debug\netcoreapp3.1\Repeticoes.deps.json
+C:\temp\vs-2019\Repeticoes\Repeticoes\bin\Debug\netcoreapp3.1\Repeticoes.runtimeconfig.json
+C:\temp\vs-2019\Repeticoes\Repeticoes\bin\Debug\netcoreapp3.1\Repeticoes.runtimeconfig.dev.json
+C:\temp\vs-2019\Repeticoes\Repeticoes\bin\Debug\netcoreapp3.1\Repeticoes.dll
+C:\temp\vs-2019\Repeticoes\Repeticoes\bin\Debug\netcoreapp3.1\Repeticoes.pdb
+C:\temp\vs-2019\Repeticoes\Repeticoes\obj\Debug\netcoreapp3.1\Repeticoes.csproj.AssemblyReference.cache
+C:\temp\vs-2019\Repeticoes\Repeticoes\obj\Debug\netcoreapp3.1\Repeticoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\Repeticoes\Repeticoes\obj\Debug\netcoreapp3.1\Repeticoes.AssemblyInfoInputs.cache
+C:\temp\vs-2019\Repeticoes\Repeticoes\obj\Debug\netcoreapp3.1\Repeticoes.AssemblyInfo.cs
+C:\temp\vs-2019\Repeticoes\Repeticoes\obj\Debug\netcoreapp3.1\Repeticoes.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\Repeticoes\Repeticoes\obj\Debug\netcoreapp3.1\Repeticoes.dll
+C:\temp\vs-2019\Repeticoes\Repeticoes\obj\Debug\netcoreapp3.1\Repeticoes.pdb
+C:\temp\vs-2019\Repeticoes\Repeticoes\obj\Debug\netcoreapp3.1\Repeticoes.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\temp\vs-2019\Matrizes02\Matrizes02\bin\Debug\netcoreapp3.1\Matrizes02.exe
+C:\temp\vs-2019\Matrizes02\Matrizes02\bin\Debug\netcoreapp3.1\Matrizes02.deps.json
+C:\temp\vs-2019\Matrizes02\Matrizes02\bin\Debug\netcoreapp3.1\Matrizes02.runtimeconfig.json
+C:\temp\vs-2019\Matrizes02\Matrizes02\bin\Debug\netcoreapp3.1\Matrizes02.runtimeconfig.dev.json
+C:\temp\vs-2019\Matrizes02\Matrizes02\bin\Debug\netcoreapp3.1\Matrizes02.dll
+C:\temp\vs-2019\Matrizes02\Matrizes02\bin\Debug\netcoreapp3.1\Matrizes02.pdb
+C:\temp\vs-2019\Matrizes02\Matrizes02\obj\Debug\netcoreapp3.1\Matrizes02.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\Matrizes02\Matrizes02\obj\Debug\netcoreapp3.1\Matrizes02.AssemblyInfoInputs.cache
+C:\temp\vs-2019\Matrizes02\Matrizes02\obj\Debug\netcoreapp3.1\Matrizes02.AssemblyInfo.cs
+C:\temp\vs-2019\Matrizes02\Matrizes02\obj\Debug\netcoreapp3.1\Matrizes02.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\Matrizes02\Matrizes02\obj\Debug\netcoreapp3.1\Matrizes02.dll
+C:\temp\vs-2019\Matrizes02\Matrizes02\obj\Debug\netcoreapp3.1\Matrizes02.pdb
+C:\temp\vs-2019\Matrizes02\Matrizes02\obj\Debug\netcoreapp3.1\Matrizes02.genruntimeconfig.cache
+C:\temp\vs-2019\Matrizes02\Matrizes02\obj\Debug\netcoreapp3.1\Matrizes02.csproj.AssemblyReference.cache

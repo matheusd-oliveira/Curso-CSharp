@@ -1,0 +1,13 @@
+C:\temp\vs-2019\Foreach\Foreach\bin\Debug\netcoreapp3.1\Foreach.exe
+C:\temp\vs-2019\Foreach\Foreach\bin\Debug\netcoreapp3.1\Foreach.deps.json
+C:\temp\vs-2019\Foreach\Foreach\bin\Debug\netcoreapp3.1\Foreach.runtimeconfig.json
+C:\temp\vs-2019\Foreach\Foreach\bin\Debug\netcoreapp3.1\Foreach.runtimeconfig.dev.json
+C:\temp\vs-2019\Foreach\Foreach\bin\Debug\netcoreapp3.1\Foreach.dll
+C:\temp\vs-2019\Foreach\Foreach\bin\Debug\netcoreapp3.1\Foreach.pdb
+C:\temp\vs-2019\Foreach\Foreach\obj\Debug\netcoreapp3.1\Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\Foreach\Foreach\obj\Debug\netcoreapp3.1\Foreach.AssemblyInfoInputs.cache
+C:\temp\vs-2019\Foreach\Foreach\obj\Debug\netcoreapp3.1\Foreach.AssemblyInfo.cs
+C:\temp\vs-2019\Foreach\Foreach\obj\Debug\netcoreapp3.1\Foreach.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\Foreach\Foreach\obj\Debug\netcoreapp3.1\Foreach.dll
+C:\temp\vs-2019\Foreach\Foreach\obj\Debug\netcoreapp3.1\Foreach.pdb
+C:\temp\vs-2019\Foreach\Foreach\obj\Debug\netcoreapp3.1\Foreach.genruntimeconfig.cache

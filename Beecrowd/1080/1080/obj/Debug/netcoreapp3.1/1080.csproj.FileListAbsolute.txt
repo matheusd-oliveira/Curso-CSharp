@@ -1,0 +1,14 @@
+C:\temp\vs-2019\Beecrowd\1080\1080\bin\Debug\netcoreapp3.1\1080.exe
+C:\temp\vs-2019\Beecrowd\1080\1080\bin\Debug\netcoreapp3.1\1080.deps.json
+C:\temp\vs-2019\Beecrowd\1080\1080\bin\Debug\netcoreapp3.1\1080.runtimeconfig.json
+C:\temp\vs-2019\Beecrowd\1080\1080\bin\Debug\netcoreapp3.1\1080.runtimeconfig.dev.json
+C:\temp\vs-2019\Beecrowd\1080\1080\bin\Debug\netcoreapp3.1\1080.dll
+C:\temp\vs-2019\Beecrowd\1080\1080\bin\Debug\netcoreapp3.1\1080.pdb
+C:\temp\vs-2019\Beecrowd\1080\1080\obj\Debug\netcoreapp3.1\1080.csproj.AssemblyReference.cache
+C:\temp\vs-2019\Beecrowd\1080\1080\obj\Debug\netcoreapp3.1\1080.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\Beecrowd\1080\1080\obj\Debug\netcoreapp3.1\1080.AssemblyInfoInputs.cache
+C:\temp\vs-2019\Beecrowd\1080\1080\obj\Debug\netcoreapp3.1\1080.AssemblyInfo.cs
+C:\temp\vs-2019\Beecrowd\1080\1080\obj\Debug\netcoreapp3.1\1080.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\Beecrowd\1080\1080\obj\Debug\netcoreapp3.1\1080.dll
+C:\temp\vs-2019\Beecrowd\1080\1080\obj\Debug\netcoreapp3.1\1080.pdb
+C:\temp\vs-2019\Beecrowd\1080\1080\obj\Debug\netcoreapp3.1\1080.genruntimeconfig.cache

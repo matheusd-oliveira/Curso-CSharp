@@ -1,0 +1,14 @@
+C:\temp\vs-2019\Condicionais\Condicionais\bin\Debug\netcoreapp3.1\Condicionais.exe
+C:\temp\vs-2019\Condicionais\Condicionais\bin\Debug\netcoreapp3.1\Condicionais.deps.json
+C:\temp\vs-2019\Condicionais\Condicionais\bin\Debug\netcoreapp3.1\Condicionais.runtimeconfig.json
+C:\temp\vs-2019\Condicionais\Condicionais\bin\Debug\netcoreapp3.1\Condicionais.runtimeconfig.dev.json
+C:\temp\vs-2019\Condicionais\Condicionais\bin\Debug\netcoreapp3.1\Condicionais.dll
+C:\temp\vs-2019\Condicionais\Condicionais\bin\Debug\netcoreapp3.1\Condicionais.pdb
+C:\temp\vs-2019\Condicionais\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.csproj.AssemblyReference.cache
+C:\temp\vs-2019\Condicionais\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\Condicionais\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.AssemblyInfoInputs.cache
+C:\temp\vs-2019\Condicionais\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.AssemblyInfo.cs
+C:\temp\vs-2019\Condicionais\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\Condicionais\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.dll
+C:\temp\vs-2019\Condicionais\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.pdb
+C:\temp\vs-2019\Condicionais\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.genruntimeconfig.cache
