@@ -1,0 +1,14 @@
+C:\temp\vs-2019\POO\ExClasses2\ExClasses2\bin\Debug\netcoreapp3.1\ExClasses2.exe
+C:\temp\vs-2019\POO\ExClasses2\ExClasses2\bin\Debug\netcoreapp3.1\ExClasses2.deps.json
+C:\temp\vs-2019\POO\ExClasses2\ExClasses2\bin\Debug\netcoreapp3.1\ExClasses2.runtimeconfig.json
+C:\temp\vs-2019\POO\ExClasses2\ExClasses2\bin\Debug\netcoreapp3.1\ExClasses2.runtimeconfig.dev.json
+C:\temp\vs-2019\POO\ExClasses2\ExClasses2\bin\Debug\netcoreapp3.1\ExClasses2.dll
+C:\temp\vs-2019\POO\ExClasses2\ExClasses2\bin\Debug\netcoreapp3.1\ExClasses2.pdb
+C:\temp\vs-2019\POO\ExClasses2\ExClasses2\obj\Debug\netcoreapp3.1\ExClasses2.csproj.AssemblyReference.cache
+C:\temp\vs-2019\POO\ExClasses2\ExClasses2\obj\Debug\netcoreapp3.1\ExClasses2.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\POO\ExClasses2\ExClasses2\obj\Debug\netcoreapp3.1\ExClasses2.AssemblyInfoInputs.cache
+C:\temp\vs-2019\POO\ExClasses2\ExClasses2\obj\Debug\netcoreapp3.1\ExClasses2.AssemblyInfo.cs
+C:\temp\vs-2019\POO\ExClasses2\ExClasses2\obj\Debug\netcoreapp3.1\ExClasses2.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\POO\ExClasses2\ExClasses2\obj\Debug\netcoreapp3.1\ExClasses2.dll
+C:\temp\vs-2019\POO\ExClasses2\ExClasses2\obj\Debug\netcoreapp3.1\ExClasses2.pdb
+C:\temp\vs-2019\POO\ExClasses2\ExClasses2\obj\Debug\netcoreapp3.1\ExClasses2.genruntimeconfig.cache
