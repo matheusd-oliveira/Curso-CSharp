@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Globalization; 
+using System.Globalization;
 
 namespace ExercicioNotaDoAluno
 {
@@ -17,7 +17,19 @@ namespace ExercicioNotaDoAluno
             aluno.Nota2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             aluno.Nota3 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            Console.WriteLine(aluno);
+            Console.WriteLine("Nota Final = " + aluno.NotaFinal().ToString("F2", CultureInfo.InvariantCulture));
+
+            if (aluno.Aprovado())
+            {
+                Console.WriteLine("APROVADO");
+            }
+            else
+            {
+                Console.WriteLine("REPROVADO");
+                Console.WriteLine("FALTARAM " 
+                    + aluno.NotaRestante().ToString("F2", CultureInfo.InvariantCulture)
+                    + " PONTOS");
+            }
         }
     }
 }

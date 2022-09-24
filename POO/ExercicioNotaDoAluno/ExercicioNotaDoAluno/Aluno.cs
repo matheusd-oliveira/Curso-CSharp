@@ -6,9 +6,35 @@ namespace ExercicioNotaDoAluno
     class Aluno
     {
         public string Nome;
-        public double Nota1, Nota2, Nota3, total;
+        public double Nota1, Nota2, Nota3;
 
-        public override string ToString()
+        public double NotaFinal()
+        {
+            return Nota1 + Nota2 + Nota3;
+        }
+
+        public bool Aprovado()
+        {
+            if (NotaFinal() >= 60.0)
+                return true;
+            else
+                return false;
+        }
+
+        public double NotaRestante()
+        {
+            if (Aprovado())
+                return 0.0;
+            else
+                return 60 - NotaFinal();
+        }
+
+
+
+
+        // Exercicio comentado. O código foi refatorado de acordo com a correção
+        // do exercicio do Professor. Porém, o código abaixo se encontra sem erros.
+        /*public override string ToString()
         {
             double total = Nota1 + Nota2 + Nota3;
             double restante = 60 - total;
@@ -29,8 +55,7 @@ namespace ExercicioNotaDoAluno
                     + " PONTOS";
             }
 
-        }
-
+        }*/
 
     }
 }
