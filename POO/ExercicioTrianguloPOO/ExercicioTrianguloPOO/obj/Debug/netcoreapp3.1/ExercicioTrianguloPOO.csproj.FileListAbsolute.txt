@@ -1,0 +1,14 @@
+C:\temp\vs-2019\POO\ExercicioTrianguloPOO\ExercicioTrianguloPOO\bin\Debug\netcoreapp3.1\ExercicioTrianguloPOO.exe
+C:\temp\vs-2019\POO\ExercicioTrianguloPOO\ExercicioTrianguloPOO\bin\Debug\netcoreapp3.1\ExercicioTrianguloPOO.deps.json
+C:\temp\vs-2019\POO\ExercicioTrianguloPOO\ExercicioTrianguloPOO\bin\Debug\netcoreapp3.1\ExercicioTrianguloPOO.runtimeconfig.json
+C:\temp\vs-2019\POO\ExercicioTrianguloPOO\ExercicioTrianguloPOO\bin\Debug\netcoreapp3.1\ExercicioTrianguloPOO.runtimeconfig.dev.json
+C:\temp\vs-2019\POO\ExercicioTrianguloPOO\ExercicioTrianguloPOO\bin\Debug\netcoreapp3.1\ExercicioTrianguloPOO.dll
+C:\temp\vs-2019\POO\ExercicioTrianguloPOO\ExercicioTrianguloPOO\bin\Debug\netcoreapp3.1\ExercicioTrianguloPOO.pdb
+C:\temp\vs-2019\POO\ExercicioTrianguloPOO\ExercicioTrianguloPOO\obj\Debug\netcoreapp3.1\ExercicioTrianguloPOO.csproj.AssemblyReference.cache
+C:\temp\vs-2019\POO\ExercicioTrianguloPOO\ExercicioTrianguloPOO\obj\Debug\netcoreapp3.1\ExercicioTrianguloPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\POO\ExercicioTrianguloPOO\ExercicioTrianguloPOO\obj\Debug\netcoreapp3.1\ExercicioTrianguloPOO.AssemblyInfoInputs.cache
+C:\temp\vs-2019\POO\ExercicioTrianguloPOO\ExercicioTrianguloPOO\obj\Debug\netcoreapp3.1\ExercicioTrianguloPOO.AssemblyInfo.cs
+C:\temp\vs-2019\POO\ExercicioTrianguloPOO\ExercicioTrianguloPOO\obj\Debug\netcoreapp3.1\ExercicioTrianguloPOO.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\POO\ExercicioTrianguloPOO\ExercicioTrianguloPOO\obj\Debug\netcoreapp3.1\ExercicioTrianguloPOO.dll
+C:\temp\vs-2019\POO\ExercicioTrianguloPOO\ExercicioTrianguloPOO\obj\Debug\netcoreapp3.1\ExercicioTrianguloPOO.pdb
+C:\temp\vs-2019\POO\ExercicioTrianguloPOO\ExercicioTrianguloPOO\obj\Debug\netcoreapp3.1\ExercicioTrianguloPOO.genruntimeconfig.cache

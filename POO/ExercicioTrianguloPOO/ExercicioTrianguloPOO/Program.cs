@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace ExercicioTrianguloPOO
 {
@@ -6,7 +7,12 @@ namespace ExercicioTrianguloPOO
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Retangulo ret = new Retangulo();
+            
+            Console.WriteLine("Entre a largura e altura do retângulo: ");
+            ret.Largura = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            ret.Altura = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.WriteLine(ret);
         }
     }
 }
