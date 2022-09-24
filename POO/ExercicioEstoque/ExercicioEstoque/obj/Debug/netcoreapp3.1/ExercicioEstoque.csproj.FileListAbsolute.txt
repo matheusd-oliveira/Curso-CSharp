@@ -1,0 +1,14 @@
+C:\temp\vs-2019\POO\ExercicioEstoque\ExercicioEstoque\bin\Debug\netcoreapp3.1\ExercicioEstoque.exe
+C:\temp\vs-2019\POO\ExercicioEstoque\ExercicioEstoque\bin\Debug\netcoreapp3.1\ExercicioEstoque.deps.json
+C:\temp\vs-2019\POO\ExercicioEstoque\ExercicioEstoque\bin\Debug\netcoreapp3.1\ExercicioEstoque.runtimeconfig.json
+C:\temp\vs-2019\POO\ExercicioEstoque\ExercicioEstoque\bin\Debug\netcoreapp3.1\ExercicioEstoque.runtimeconfig.dev.json
+C:\temp\vs-2019\POO\ExercicioEstoque\ExercicioEstoque\bin\Debug\netcoreapp3.1\ExercicioEstoque.dll
+C:\temp\vs-2019\POO\ExercicioEstoque\ExercicioEstoque\bin\Debug\netcoreapp3.1\ExercicioEstoque.pdb
+C:\temp\vs-2019\POO\ExercicioEstoque\ExercicioEstoque\obj\Debug\netcoreapp3.1\ExercicioEstoque.csproj.AssemblyReference.cache
+C:\temp\vs-2019\POO\ExercicioEstoque\ExercicioEstoque\obj\Debug\netcoreapp3.1\ExercicioEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\POO\ExercicioEstoque\ExercicioEstoque\obj\Debug\netcoreapp3.1\ExercicioEstoque.AssemblyInfoInputs.cache
+C:\temp\vs-2019\POO\ExercicioEstoque\ExercicioEstoque\obj\Debug\netcoreapp3.1\ExercicioEstoque.AssemblyInfo.cs
+C:\temp\vs-2019\POO\ExercicioEstoque\ExercicioEstoque\obj\Debug\netcoreapp3.1\ExercicioEstoque.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\POO\ExercicioEstoque\ExercicioEstoque\obj\Debug\netcoreapp3.1\ExercicioEstoque.dll
+C:\temp\vs-2019\POO\ExercicioEstoque\ExercicioEstoque\obj\Debug\netcoreapp3.1\ExercicioEstoque.pdb
+C:\temp\vs-2019\POO\ExercicioEstoque\ExercicioEstoque\obj\Debug\netcoreapp3.1\ExercicioEstoque.genruntimeconfig.cache
