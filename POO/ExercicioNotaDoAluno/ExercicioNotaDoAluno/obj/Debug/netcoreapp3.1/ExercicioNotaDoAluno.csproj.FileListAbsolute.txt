@@ -1,0 +1,14 @@
+C:\temp\vs-2019\POO\ExercicioNotaDoAluno\ExercicioNotaDoAluno\bin\Debug\netcoreapp3.1\ExercicioNotaDoAluno.exe
+C:\temp\vs-2019\POO\ExercicioNotaDoAluno\ExercicioNotaDoAluno\bin\Debug\netcoreapp3.1\ExercicioNotaDoAluno.deps.json
+C:\temp\vs-2019\POO\ExercicioNotaDoAluno\ExercicioNotaDoAluno\bin\Debug\netcoreapp3.1\ExercicioNotaDoAluno.runtimeconfig.json
+C:\temp\vs-2019\POO\ExercicioNotaDoAluno\ExercicioNotaDoAluno\bin\Debug\netcoreapp3.1\ExercicioNotaDoAluno.runtimeconfig.dev.json
+C:\temp\vs-2019\POO\ExercicioNotaDoAluno\ExercicioNotaDoAluno\bin\Debug\netcoreapp3.1\ExercicioNotaDoAluno.dll
+C:\temp\vs-2019\POO\ExercicioNotaDoAluno\ExercicioNotaDoAluno\bin\Debug\netcoreapp3.1\ExercicioNotaDoAluno.pdb
+C:\temp\vs-2019\POO\ExercicioNotaDoAluno\ExercicioNotaDoAluno\obj\Debug\netcoreapp3.1\ExercicioNotaDoAluno.csproj.AssemblyReference.cache
+C:\temp\vs-2019\POO\ExercicioNotaDoAluno\ExercicioNotaDoAluno\obj\Debug\netcoreapp3.1\ExercicioNotaDoAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\POO\ExercicioNotaDoAluno\ExercicioNotaDoAluno\obj\Debug\netcoreapp3.1\ExercicioNotaDoAluno.AssemblyInfoInputs.cache
+C:\temp\vs-2019\POO\ExercicioNotaDoAluno\ExercicioNotaDoAluno\obj\Debug\netcoreapp3.1\ExercicioNotaDoAluno.AssemblyInfo.cs
+C:\temp\vs-2019\POO\ExercicioNotaDoAluno\ExercicioNotaDoAluno\obj\Debug\netcoreapp3.1\ExercicioNotaDoAluno.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\POO\ExercicioNotaDoAluno\ExercicioNotaDoAluno\obj\Debug\netcoreapp3.1\ExercicioNotaDoAluno.dll
+C:\temp\vs-2019\POO\ExercicioNotaDoAluno\ExercicioNotaDoAluno\obj\Debug\netcoreapp3.1\ExercicioNotaDoAluno.pdb
+C:\temp\vs-2019\POO\ExercicioNotaDoAluno\ExercicioNotaDoAluno\obj\Debug\netcoreapp3.1\ExercicioNotaDoAluno.genruntimeconfig.cache
