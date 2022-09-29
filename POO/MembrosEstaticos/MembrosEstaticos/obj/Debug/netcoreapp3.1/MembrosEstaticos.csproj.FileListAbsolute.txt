@@ -1,0 +1,14 @@
+C:\temp\vs-2019\POO\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.exe
+C:\temp\vs-2019\POO\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.deps.json
+C:\temp\vs-2019\POO\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.runtimeconfig.json
+C:\temp\vs-2019\POO\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.runtimeconfig.dev.json
+C:\temp\vs-2019\POO\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.dll
+C:\temp\vs-2019\POO\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.pdb
+C:\temp\vs-2019\POO\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.csproj.AssemblyReference.cache
+C:\temp\vs-2019\POO\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\POO\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.AssemblyInfoInputs.cache
+C:\temp\vs-2019\POO\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.AssemblyInfo.cs
+C:\temp\vs-2019\POO\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\POO\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.dll
+C:\temp\vs-2019\POO\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.pdb
+C:\temp\vs-2019\POO\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.genruntimeconfig.cache
