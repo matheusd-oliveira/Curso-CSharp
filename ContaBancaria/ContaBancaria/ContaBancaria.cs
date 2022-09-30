@@ -15,9 +15,9 @@ namespace ContaBancaria
             Titular = titular;
         }
 
-        public ContaBancaria(int numeroDaConta, string titular, double saldoBancario) : this(numeroDaConta, titular)
+        public ContaBancaria(int numeroDaConta, string titular, double depositoInicial) : this(numeroDaConta, titular)
         {
-            SaldoBancario = saldoBancario;
+            Depositar(depositoInicial);
         }
 
         public void Depositar(double deposito)
