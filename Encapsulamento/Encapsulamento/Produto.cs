@@ -51,6 +51,8 @@ namespace Encapsulamento
         }
 
 
+        // Métodos
+
         public double ValorTotalEmEstoque()
         {
             return _preco * _quantidade;
@@ -69,6 +71,7 @@ namespace Encapsulamento
         }
 
 
+        // ToString()
         public override string ToString()
         {
             return $"{_nome} , $ {_preco}, {_quantidade} unidades, Total: $ {ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture)}";
