@@ -8,9 +8,9 @@ namespace Encapsulamento
         {
             Produto p = new Produto("TV", 500.00, 10);
 
-            p.SetNome("TV 4K");
+            p.Nome = "TV 4K";
           
-            Console.WriteLine(p.GetNome());
+            Console.WriteLine(p.Nome);
             Console.WriteLine(p.GetPreco());
             Console.WriteLine(p.GetQuantidade());
         }

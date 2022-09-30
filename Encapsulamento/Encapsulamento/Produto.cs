@@ -22,34 +22,26 @@ namespace Encapsulamento
             _quantidade = quantidade;
 
         }
-
-
-        // Utilizando o Get para obter os atributos privados.
-        public string GetNome()
+        // Propetie do Nome , Preco e Quantidade
+        public string Nome
         {
-            return _nome;
+            get { return _nome; }
+            set
+            {
+                if (value != null && value.Length > 1)
+                    _nome = value;
+            }
         }
 
-
-        public double GetPreco()
+        public double Preco
         {
-            return _preco;
+            get { return _preco; }
         }
 
-
-        public int GetQuantidade()
+        public int Quantidade
         {
-            return _quantidade;
+            get { return _quantidade; }
         }
-
-
-        // Utilizando o Set para setar atributos novos.
-        public void SetNome(string nome)
-        {
-            if (nome != null && nome.Length > 1)
-                _nome = nome;
-        }
-
 
         // Métodos
 
