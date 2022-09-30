@@ -1,34 +1,23 @@
-﻿namespace ContaBancaria
+﻿using System.Globalization;
+
+namespace ContaBancaria
 {
     class ContaBancaria
     {
-        private string _nome;
         public int NumeroDaConta { get; private set; }
+        public string Titular { get; set; }
         public double SaldoBancario { get; private set; }
 
 
-        public ContaBancaria() { }
-
-        public ContaBancaria(string nome, int numeroDaConta)
+        public ContaBancaria(int numeroDaConta, string titular)
         {
-            _nome = nome;
             NumeroDaConta = numeroDaConta;
+            Titular = titular;
         }
 
-        public ContaBancaria(string nome, int numeroDaConta, double saldoBancario)
+        public ContaBancaria(int numeroDaConta, string titular, double saldoBancario) : this(numeroDaConta, titular)
         {
-            _nome = nome;
-            NumeroDaConta = numeroDaConta;
             SaldoBancario = saldoBancario;
-        }
-
-        public string Nome
-        {
-            get { return _nome; }
-            set
-            {
-                _nome = value;
-            }
         }
 
         public void Depositar(double deposito)
@@ -46,10 +35,12 @@
 
         public override string ToString()
         {
-            return "Conta " + NumeroDaConta
-                + ", Titular: " + Nome
-                + ", Saldo: $ " + SaldoBancario.ToString("F2");
-
+            return "Conta " 
+                + NumeroDaConta
+                + ", Titular: " 
+                + Titular
+                + ", Saldo: $ " 
+                + SaldoBancario.ToString("F2", CultureInfo.InvariantCulture);
 
         }
     }
