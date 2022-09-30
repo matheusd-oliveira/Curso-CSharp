@@ -8,8 +8,8 @@ namespace Encapsulamento
         // Quando se trabalha com atributos privados, não se utiliza CamelCase por padrão
         // Se utiliza o _letraminuscula.
         private string _nome;
-        private double _preco;
-        private int _quantidade;
+        public double Preco { get; private set;}
+        public int Quantidade { get; private set; }
 
         public Produto() { }
 
@@ -18,11 +18,11 @@ namespace Encapsulamento
         {
 
             _nome = nome;
-            _preco = preco;
-            _quantidade = quantidade;
+            Preco = preco;
+            Quantidade = quantidade;
 
         }
-        // Propetie do Nome , Preco e Quantidade
+        // Propetie do Nome
         public string Nome
         {
             get { return _nome; }
@@ -32,41 +32,30 @@ namespace Encapsulamento
                     _nome = value;
             }
         }
-
-        public double Preco
-        {
-            get { return _preco; }
-        }
-
-        public int Quantidade
-        {
-            get { return _quantidade; }
-        }
-
         // Métodos
 
         public double ValorTotalEmEstoque()
         {
-            return _preco * _quantidade;
+            return Preco * Quantidade;
         }
 
 
         public void AdicionarProdutos(int quantidade)
         {
-            _quantidade += quantidade;
+            Quantidade += quantidade;
         }
 
 
         public void RemoverProdutos(int quantidade)
         {
-            _quantidade += quantidade;
+            Quantidade += quantidade;
         }
 
 
         // ToString()
         public override string ToString()
         {
-            return $"{_nome} , $ {_preco}, {_quantidade} unidades, Total: $ {ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture)}";
+            return $"{_nome} , $ {Preco}, {Quantidade} unidades, Total: $ {ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture)}";
         }
     }
 }
