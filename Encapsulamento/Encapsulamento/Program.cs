@@ -11,8 +11,8 @@ namespace Encapsulamento
             p.Nome = "TV 4K";
           
             Console.WriteLine(p.Nome);
-            Console.WriteLine(p.GetPreco());
-            Console.WriteLine(p.GetQuantidade());
+            Console.WriteLine(p.Preco);
+            Console.WriteLine(p.Quantidade);
         }
     }
 }
