@@ -1,0 +1,14 @@
+C:\temp\vs-2019\ExercicioVetores01\ExercicioVetores01\bin\Debug\netcoreapp3.1\ExercicioVetores01.exe
+C:\temp\vs-2019\ExercicioVetores01\ExercicioVetores01\bin\Debug\netcoreapp3.1\ExercicioVetores01.deps.json
+C:\temp\vs-2019\ExercicioVetores01\ExercicioVetores01\bin\Debug\netcoreapp3.1\ExercicioVetores01.runtimeconfig.json
+C:\temp\vs-2019\ExercicioVetores01\ExercicioVetores01\bin\Debug\netcoreapp3.1\ExercicioVetores01.runtimeconfig.dev.json
+C:\temp\vs-2019\ExercicioVetores01\ExercicioVetores01\bin\Debug\netcoreapp3.1\ExercicioVetores01.dll
+C:\temp\vs-2019\ExercicioVetores01\ExercicioVetores01\bin\Debug\netcoreapp3.1\ExercicioVetores01.pdb
+C:\temp\vs-2019\ExercicioVetores01\ExercicioVetores01\obj\Debug\netcoreapp3.1\ExercicioVetores01.csproj.AssemblyReference.cache
+C:\temp\vs-2019\ExercicioVetores01\ExercicioVetores01\obj\Debug\netcoreapp3.1\ExercicioVetores01.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\ExercicioVetores01\ExercicioVetores01\obj\Debug\netcoreapp3.1\ExercicioVetores01.AssemblyInfoInputs.cache
+C:\temp\vs-2019\ExercicioVetores01\ExercicioVetores01\obj\Debug\netcoreapp3.1\ExercicioVetores01.AssemblyInfo.cs
+C:\temp\vs-2019\ExercicioVetores01\ExercicioVetores01\obj\Debug\netcoreapp3.1\ExercicioVetores01.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\ExercicioVetores01\ExercicioVetores01\obj\Debug\netcoreapp3.1\ExercicioVetores01.dll
+C:\temp\vs-2019\ExercicioVetores01\ExercicioVetores01\obj\Debug\netcoreapp3.1\ExercicioVetores01.pdb
+C:\temp\vs-2019\ExercicioVetores01\ExercicioVetores01\obj\Debug\netcoreapp3.1\ExercicioVetores01.genruntimeconfig.cache
