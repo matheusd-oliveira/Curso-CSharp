@@ -1,0 +1,6 @@
+﻿namespace ModificadorRefEOut
+{
+    class Calculator
+    {
+    }
+}
