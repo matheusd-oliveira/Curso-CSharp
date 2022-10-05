@@ -6,12 +6,15 @@
         public string Mail { get; set; }
         public int Room { get; set; }
 
-        public Pensao(string name, string mail, int room)
+        public Pensao(string name, string mail)
         {
             Name = name;
             Mail = mail;
-            Room = room;
         }
 
+        public override string ToString()
+        {
+            return Name + ", " + Mail;
+        }
     }
 }

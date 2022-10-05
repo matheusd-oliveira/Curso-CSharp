@@ -13,7 +13,7 @@ namespace ExercicioVetores02
 
             for (int i = 1; i <= N; i++)
             {
-                Console.WriteLine("Aluguel #" + i);
+                Console.WriteLine($"Aluguel #{i}:" );
                 Console.Write("Nome: ");
                 string name = Console.ReadLine();
                 Console.Write("Email: ");
@@ -21,8 +21,9 @@ namespace ExercicioVetores02
                 Console.Write("Quarto: ");
                 int room = int.Parse(Console.ReadLine());
 
-                quartos[room] = new Pensao(name, mail, room);
+                quartos[room] = new Pensao(name, mail);
                 Console.WriteLine();
+
             }
 
             Console.WriteLine("Quartos ocupados: ");
@@ -30,11 +31,7 @@ namespace ExercicioVetores02
             {
                 if (quartos[i] != null)
                 {
-                    Console.WriteLine(quartos[i].Room
-                        + ": "
-                        + quartos[i].Name
-                        + ", "
-                        + quartos[i].Mail);
+                    Console.WriteLine(i + ": " + quartos[i]);
                 }
 
             }
