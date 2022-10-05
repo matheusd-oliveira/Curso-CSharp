@@ -1,0 +1,13 @@
+C:\temp\vs-2019\ModificadorParams\ModificadorParams\bin\Debug\netcoreapp3.1\ModificadorParams.exe
+C:\temp\vs-2019\ModificadorParams\ModificadorParams\bin\Debug\netcoreapp3.1\ModificadorParams.deps.json
+C:\temp\vs-2019\ModificadorParams\ModificadorParams\bin\Debug\netcoreapp3.1\ModificadorParams.runtimeconfig.json
+C:\temp\vs-2019\ModificadorParams\ModificadorParams\bin\Debug\netcoreapp3.1\ModificadorParams.runtimeconfig.dev.json
+C:\temp\vs-2019\ModificadorParams\ModificadorParams\bin\Debug\netcoreapp3.1\ModificadorParams.dll
+C:\temp\vs-2019\ModificadorParams\ModificadorParams\bin\Debug\netcoreapp3.1\ModificadorParams.pdb
+C:\temp\vs-2019\ModificadorParams\ModificadorParams\obj\Debug\netcoreapp3.1\ModificadorParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\ModificadorParams\ModificadorParams\obj\Debug\netcoreapp3.1\ModificadorParams.AssemblyInfoInputs.cache
+C:\temp\vs-2019\ModificadorParams\ModificadorParams\obj\Debug\netcoreapp3.1\ModificadorParams.AssemblyInfo.cs
+C:\temp\vs-2019\ModificadorParams\ModificadorParams\obj\Debug\netcoreapp3.1\ModificadorParams.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\ModificadorParams\ModificadorParams\obj\Debug\netcoreapp3.1\ModificadorParams.dll
+C:\temp\vs-2019\ModificadorParams\ModificadorParams\obj\Debug\netcoreapp3.1\ModificadorParams.pdb
+C:\temp\vs-2019\ModificadorParams\ModificadorParams\obj\Debug\netcoreapp3.1\ModificadorParams.genruntimeconfig.cache
