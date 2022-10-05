@@ -1,0 +1,14 @@
+C:\temp\vs-2019\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.exe
+C:\temp\vs-2019\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.deps.json
+C:\temp\vs-2019\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.runtimeconfig.json
+C:\temp\vs-2019\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.runtimeconfig.dev.json
+C:\temp\vs-2019\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.dll
+C:\temp\vs-2019\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.pdb
+C:\temp\vs-2019\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.csproj.AssemblyReference.cache
+C:\temp\vs-2019\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.AssemblyInfoInputs.cache
+C:\temp\vs-2019\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.AssemblyInfo.cs
+C:\temp\vs-2019\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.dll
+C:\temp\vs-2019\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.pdb
+C:\temp\vs-2019\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.genruntimeconfig.cache

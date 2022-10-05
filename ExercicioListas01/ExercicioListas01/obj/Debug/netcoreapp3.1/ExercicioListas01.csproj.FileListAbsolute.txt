@@ -1,0 +1,14 @@
+C:\temp\vs-2019\ExercicioListas01\ExercicioListas01\bin\Debug\netcoreapp3.1\ExercicioListas01.exe
+C:\temp\vs-2019\ExercicioListas01\ExercicioListas01\bin\Debug\netcoreapp3.1\ExercicioListas01.deps.json
+C:\temp\vs-2019\ExercicioListas01\ExercicioListas01\bin\Debug\netcoreapp3.1\ExercicioListas01.runtimeconfig.json
+C:\temp\vs-2019\ExercicioListas01\ExercicioListas01\bin\Debug\netcoreapp3.1\ExercicioListas01.runtimeconfig.dev.json
+C:\temp\vs-2019\ExercicioListas01\ExercicioListas01\bin\Debug\netcoreapp3.1\ExercicioListas01.dll
+C:\temp\vs-2019\ExercicioListas01\ExercicioListas01\bin\Debug\netcoreapp3.1\ExercicioListas01.pdb
+C:\temp\vs-2019\ExercicioListas01\ExercicioListas01\obj\Debug\netcoreapp3.1\ExercicioListas01.csproj.AssemblyReference.cache
+C:\temp\vs-2019\ExercicioListas01\ExercicioListas01\obj\Debug\netcoreapp3.1\ExercicioListas01.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\ExercicioListas01\ExercicioListas01\obj\Debug\netcoreapp3.1\ExercicioListas01.AssemblyInfoInputs.cache
+C:\temp\vs-2019\ExercicioListas01\ExercicioListas01\obj\Debug\netcoreapp3.1\ExercicioListas01.AssemblyInfo.cs
+C:\temp\vs-2019\ExercicioListas01\ExercicioListas01\obj\Debug\netcoreapp3.1\ExercicioListas01.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\ExercicioListas01\ExercicioListas01\obj\Debug\netcoreapp3.1\ExercicioListas01.dll
+C:\temp\vs-2019\ExercicioListas01\ExercicioListas01\obj\Debug\netcoreapp3.1\ExercicioListas01.pdb
+C:\temp\vs-2019\ExercicioListas01\ExercicioListas01\obj\Debug\netcoreapp3.1\ExercicioListas01.genruntimeconfig.cache
