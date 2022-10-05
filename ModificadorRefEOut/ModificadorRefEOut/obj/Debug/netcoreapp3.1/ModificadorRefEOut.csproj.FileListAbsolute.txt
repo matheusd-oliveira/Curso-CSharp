@@ -1,0 +1,14 @@
+C:\temp\vs-2019\ModificadorRefEOut\ModificadorRefEOut\bin\Debug\netcoreapp3.1\ModificadorRefEOut.exe
+C:\temp\vs-2019\ModificadorRefEOut\ModificadorRefEOut\bin\Debug\netcoreapp3.1\ModificadorRefEOut.deps.json
+C:\temp\vs-2019\ModificadorRefEOut\ModificadorRefEOut\bin\Debug\netcoreapp3.1\ModificadorRefEOut.runtimeconfig.json
+C:\temp\vs-2019\ModificadorRefEOut\ModificadorRefEOut\bin\Debug\netcoreapp3.1\ModificadorRefEOut.runtimeconfig.dev.json
+C:\temp\vs-2019\ModificadorRefEOut\ModificadorRefEOut\bin\Debug\netcoreapp3.1\ModificadorRefEOut.dll
+C:\temp\vs-2019\ModificadorRefEOut\ModificadorRefEOut\bin\Debug\netcoreapp3.1\ModificadorRefEOut.pdb
+C:\temp\vs-2019\ModificadorRefEOut\ModificadorRefEOut\obj\Debug\netcoreapp3.1\ModificadorRefEOut.csproj.AssemblyReference.cache
+C:\temp\vs-2019\ModificadorRefEOut\ModificadorRefEOut\obj\Debug\netcoreapp3.1\ModificadorRefEOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\ModificadorRefEOut\ModificadorRefEOut\obj\Debug\netcoreapp3.1\ModificadorRefEOut.AssemblyInfoInputs.cache
+C:\temp\vs-2019\ModificadorRefEOut\ModificadorRefEOut\obj\Debug\netcoreapp3.1\ModificadorRefEOut.AssemblyInfo.cs
+C:\temp\vs-2019\ModificadorRefEOut\ModificadorRefEOut\obj\Debug\netcoreapp3.1\ModificadorRefEOut.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\ModificadorRefEOut\ModificadorRefEOut\obj\Debug\netcoreapp3.1\ModificadorRefEOut.dll
+C:\temp\vs-2019\ModificadorRefEOut\ModificadorRefEOut\obj\Debug\netcoreapp3.1\ModificadorRefEOut.pdb
+C:\temp\vs-2019\ModificadorRefEOut\ModificadorRefEOut\obj\Debug\netcoreapp3.1\ModificadorRefEOut.genruntimeconfig.cache
