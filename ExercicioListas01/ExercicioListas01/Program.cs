@@ -22,16 +22,32 @@ namespace ExercicioListas01
                 string name = Console.ReadLine();
                 Console.Write("Salary: ");
                 double salary = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
                 
-                Employee emp = new Employee(id, name, salary);
-                employees.Add(emp);
+                employees.Add(new Employee(id, name, salary));
                 Console.WriteLine();
             }
 
             Console.Write("Enter the employee id that will have salary increase: ");
             int searchId = int.Parse(Console.ReadLine());
 
-            for (int i = 0; i < employees.Count; i++)
+            // Resposta corrigida por Nelio
+            Employee emp = employees.Find(x => x.Id == searchId);
+
+            if (emp != null)
+            {
+                Console.Write("Enter the percentage: ");
+                double percentage = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                emp.IncreaseSalary(percentage);
+            }
+            else
+            {
+                Console.WriteLine("This id does not exist!");
+            }
+
+
+            // Resposta comentada ,porém funcionando perfeitamente
+            /*for (int i = 0; i < employees.Count; i++)
             {
                 if (employees[i].Id == searchId)
                 {
@@ -49,14 +65,14 @@ namespace ExercicioListas01
                 }
                 
             }
-
+            */
             Console.WriteLine();
             Console.WriteLine("Updated list of employees:\n ");
             for (int i = 0; i < employees.Count; i++)
             {
                 Console.WriteLine(employees[i]);
             }
-   
+
         }
     }
 }
