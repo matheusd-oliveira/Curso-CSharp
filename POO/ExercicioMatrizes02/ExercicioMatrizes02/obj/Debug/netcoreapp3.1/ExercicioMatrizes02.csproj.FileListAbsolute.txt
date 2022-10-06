@@ -1,0 +1,14 @@
+C:\temp\vs-2019\POO\ExercicioMatrizes02\ExercicioMatrizes02\bin\Debug\netcoreapp3.1\ExercicioMatrizes02.exe
+C:\temp\vs-2019\POO\ExercicioMatrizes02\ExercicioMatrizes02\bin\Debug\netcoreapp3.1\ExercicioMatrizes02.deps.json
+C:\temp\vs-2019\POO\ExercicioMatrizes02\ExercicioMatrizes02\bin\Debug\netcoreapp3.1\ExercicioMatrizes02.runtimeconfig.json
+C:\temp\vs-2019\POO\ExercicioMatrizes02\ExercicioMatrizes02\bin\Debug\netcoreapp3.1\ExercicioMatrizes02.runtimeconfig.dev.json
+C:\temp\vs-2019\POO\ExercicioMatrizes02\ExercicioMatrizes02\bin\Debug\netcoreapp3.1\ExercicioMatrizes02.dll
+C:\temp\vs-2019\POO\ExercicioMatrizes02\ExercicioMatrizes02\bin\Debug\netcoreapp3.1\ExercicioMatrizes02.pdb
+C:\temp\vs-2019\POO\ExercicioMatrizes02\ExercicioMatrizes02\obj\Debug\netcoreapp3.1\ExercicioMatrizes02.csproj.AssemblyReference.cache
+C:\temp\vs-2019\POO\ExercicioMatrizes02\ExercicioMatrizes02\obj\Debug\netcoreapp3.1\ExercicioMatrizes02.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\POO\ExercicioMatrizes02\ExercicioMatrizes02\obj\Debug\netcoreapp3.1\ExercicioMatrizes02.AssemblyInfoInputs.cache
+C:\temp\vs-2019\POO\ExercicioMatrizes02\ExercicioMatrizes02\obj\Debug\netcoreapp3.1\ExercicioMatrizes02.AssemblyInfo.cs
+C:\temp\vs-2019\POO\ExercicioMatrizes02\ExercicioMatrizes02\obj\Debug\netcoreapp3.1\ExercicioMatrizes02.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\POO\ExercicioMatrizes02\ExercicioMatrizes02\obj\Debug\netcoreapp3.1\ExercicioMatrizes02.dll
+C:\temp\vs-2019\POO\ExercicioMatrizes02\ExercicioMatrizes02\obj\Debug\netcoreapp3.1\ExercicioMatrizes02.pdb
+C:\temp\vs-2019\POO\ExercicioMatrizes02\ExercicioMatrizes02\obj\Debug\netcoreapp3.1\ExercicioMatrizes02.genruntimeconfig.cache
