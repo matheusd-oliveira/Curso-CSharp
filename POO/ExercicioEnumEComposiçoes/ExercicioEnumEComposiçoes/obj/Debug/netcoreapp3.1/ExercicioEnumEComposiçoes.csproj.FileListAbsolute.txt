@@ -1,0 +1,14 @@
+C:\temp\vs-2019\POO\ExercicioEnumEComposiçoes\ExercicioEnumEComposiçoes\bin\Debug\netcoreapp3.1\ExercicioEnumEComposiçoes.exe
+C:\temp\vs-2019\POO\ExercicioEnumEComposiçoes\ExercicioEnumEComposiçoes\bin\Debug\netcoreapp3.1\ExercicioEnumEComposiçoes.deps.json
+C:\temp\vs-2019\POO\ExercicioEnumEComposiçoes\ExercicioEnumEComposiçoes\bin\Debug\netcoreapp3.1\ExercicioEnumEComposiçoes.runtimeconfig.json
+C:\temp\vs-2019\POO\ExercicioEnumEComposiçoes\ExercicioEnumEComposiçoes\bin\Debug\netcoreapp3.1\ExercicioEnumEComposiçoes.runtimeconfig.dev.json
+C:\temp\vs-2019\POO\ExercicioEnumEComposiçoes\ExercicioEnumEComposiçoes\bin\Debug\netcoreapp3.1\ExercicioEnumEComposiçoes.dll
+C:\temp\vs-2019\POO\ExercicioEnumEComposiçoes\ExercicioEnumEComposiçoes\bin\Debug\netcoreapp3.1\ExercicioEnumEComposiçoes.pdb
+C:\temp\vs-2019\POO\ExercicioEnumEComposiçoes\ExercicioEnumEComposiçoes\obj\Debug\netcoreapp3.1\ExercicioEnumEComposiçoes.csproj.AssemblyReference.cache
+C:\temp\vs-2019\POO\ExercicioEnumEComposiçoes\ExercicioEnumEComposiçoes\obj\Debug\netcoreapp3.1\ExercicioEnumEComposiçoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\POO\ExercicioEnumEComposiçoes\ExercicioEnumEComposiçoes\obj\Debug\netcoreapp3.1\ExercicioEnumEComposiçoes.AssemblyInfoInputs.cache
+C:\temp\vs-2019\POO\ExercicioEnumEComposiçoes\ExercicioEnumEComposiçoes\obj\Debug\netcoreapp3.1\ExercicioEnumEComposiçoes.AssemblyInfo.cs
+C:\temp\vs-2019\POO\ExercicioEnumEComposiçoes\ExercicioEnumEComposiçoes\obj\Debug\netcoreapp3.1\ExercicioEnumEComposiçoes.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\POO\ExercicioEnumEComposiçoes\ExercicioEnumEComposiçoes\obj\Debug\netcoreapp3.1\ExercicioEnumEComposiçoes.dll
+C:\temp\vs-2019\POO\ExercicioEnumEComposiçoes\ExercicioEnumEComposiçoes\obj\Debug\netcoreapp3.1\ExercicioEnumEComposiçoes.pdb
+C:\temp\vs-2019\POO\ExercicioEnumEComposiçoes\ExercicioEnumEComposiçoes\obj\Debug\netcoreapp3.1\ExercicioEnumEComposiçoes.genruntimeconfig.cache

@@ -1,6 +1,6 @@
 ﻿using ExercicioEnumEComposiçoes.Entities.Enums;
 using System.Collections.Generic;
-
+using System.Globalization;
 namespace ExercicioEnumEComposiçoes.Entities
 {
     class Worker
