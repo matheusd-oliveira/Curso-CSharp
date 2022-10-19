@@ -23,5 +23,6 @@ namespace ExercicioEnumEComposiçoes.Entities
         {  
             return Hours * ValuePerHour;
         }
+        
     }
 }
