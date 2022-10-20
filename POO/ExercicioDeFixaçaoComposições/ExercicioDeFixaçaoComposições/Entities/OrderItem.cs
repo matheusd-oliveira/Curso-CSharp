@@ -16,8 +16,8 @@ namespace ExercicioDeFixaçaoComposições.Entities
 
         public OrderItem(int quantity, double price, Product product)
         {
-            Quantity = Quantity;
-            Price = Price;
+            Quantity = quantity;
+            Price = price;
             Product = product;
         }
 
@@ -25,6 +25,11 @@ namespace ExercicioDeFixaçaoComposições.Entities
         public double SubTotal()
         {
             return Quantity * Price;
+        }
+
+        public override string ToString()
+        {
+            return Product.Name + ", $" + Price + ", Quantity: " + Quantity + ", Subtotal: $" + SubTotal();
         }
     }
 }

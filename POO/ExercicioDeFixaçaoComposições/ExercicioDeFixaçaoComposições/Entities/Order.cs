@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Globalization;
 
 namespace ExercicioDeFixaçaoComposições.Entities
 {
@@ -38,7 +39,7 @@ namespace ExercicioDeFixaçaoComposições.Entities
             double sum = 0.0;
             foreach (OrderItem order in OrderItem)
             {
-                sum += order.Price;
+                sum += order.SubTotal();
             }
 
             return sum;
@@ -48,9 +49,20 @@ namespace ExercicioDeFixaçaoComposições.Entities
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine("ORDER SUMMARY: ");
-            sb.Append("Order moment: ");
-            sb.Append();
+            sb.AppendLine("Order moment: " + Moment.ToString("dd/MM/yyyy HH:mm:ss"));
+            sb.AppendLine("Order Status: " + Status.ToString());
+            sb.AppendLine("Client: " + Client.Name);
+            sb.AppendLine("Order items: ");
+
+            foreach (OrderItem item in OrderItem)
+            {
+                sb.AppendLine(item.ToString());
+            }
+
+            sb.AppendLine("Total price: $" + Total().ToString("F2", CultureInfo.InvariantCulture));
+            return sb.ToString();
+
+
         }
     }
 }

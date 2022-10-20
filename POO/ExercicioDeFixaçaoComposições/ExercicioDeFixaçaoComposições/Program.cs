@@ -2,6 +2,7 @@
 using ExercicioDeFixaçaoComposições.Entities.Enums;
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 
 namespace ExercicioDeFixaçaoComposições
 {
@@ -19,7 +20,8 @@ namespace ExercicioDeFixaçaoComposições
             Console.Write("Birth Date (DD/MM/YYYY): ");
             DateTime birthDate = DateTime.Parse(Console.ReadLine());
 
-            Console.Write("Enter order data: ");
+            Console.WriteLine("Enter order data: ");
+            Console.Write("Status: ");
             OrderStatus status = Enum.Parse<OrderStatus>(Console.ReadLine());
 
 
@@ -36,7 +38,7 @@ namespace ExercicioDeFixaçaoComposições
                 string productName = Console.ReadLine();
 
                 Console.Write("Product Price: ");
-                double productPrice = double.Parse(Console.ReadLine());
+                double productPrice = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
                 Console.Write("Quantity: ");
                 int quantity = int.Parse(Console.ReadLine());
@@ -46,6 +48,10 @@ namespace ExercicioDeFixaçaoComposições
 
                 order.AddItem(orderItem);
             }
+
+            Console.WriteLine();
+            Console.WriteLine("ORDER SUMMARY: ");
+            Console.WriteLine(order);
 
         }
     }
