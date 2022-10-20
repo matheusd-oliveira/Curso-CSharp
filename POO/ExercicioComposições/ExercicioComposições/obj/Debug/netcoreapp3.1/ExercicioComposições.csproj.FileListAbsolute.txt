@@ -1,0 +1,14 @@
+C:\temp\vs-2019\POO\ExercicioComposições\ExercicioComposições\bin\Debug\netcoreapp3.1\ExercicioComposições.exe
+C:\temp\vs-2019\POO\ExercicioComposições\ExercicioComposições\bin\Debug\netcoreapp3.1\ExercicioComposições.deps.json
+C:\temp\vs-2019\POO\ExercicioComposições\ExercicioComposições\bin\Debug\netcoreapp3.1\ExercicioComposições.runtimeconfig.json
+C:\temp\vs-2019\POO\ExercicioComposições\ExercicioComposições\bin\Debug\netcoreapp3.1\ExercicioComposições.runtimeconfig.dev.json
+C:\temp\vs-2019\POO\ExercicioComposições\ExercicioComposições\bin\Debug\netcoreapp3.1\ExercicioComposições.dll
+C:\temp\vs-2019\POO\ExercicioComposições\ExercicioComposições\bin\Debug\netcoreapp3.1\ExercicioComposições.pdb
+C:\temp\vs-2019\POO\ExercicioComposições\ExercicioComposições\obj\Debug\netcoreapp3.1\ExercicioComposições.csproj.AssemblyReference.cache
+C:\temp\vs-2019\POO\ExercicioComposições\ExercicioComposições\obj\Debug\netcoreapp3.1\ExercicioComposições.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\POO\ExercicioComposições\ExercicioComposições\obj\Debug\netcoreapp3.1\ExercicioComposições.AssemblyInfoInputs.cache
+C:\temp\vs-2019\POO\ExercicioComposições\ExercicioComposições\obj\Debug\netcoreapp3.1\ExercicioComposições.AssemblyInfo.cs
+C:\temp\vs-2019\POO\ExercicioComposições\ExercicioComposições\obj\Debug\netcoreapp3.1\ExercicioComposições.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\POO\ExercicioComposições\ExercicioComposições\obj\Debug\netcoreapp3.1\ExercicioComposições.dll
+C:\temp\vs-2019\POO\ExercicioComposições\ExercicioComposições\obj\Debug\netcoreapp3.1\ExercicioComposições.pdb
+C:\temp\vs-2019\POO\ExercicioComposições\ExercicioComposições\obj\Debug\netcoreapp3.1\ExercicioComposições.genruntimeconfig.cache
