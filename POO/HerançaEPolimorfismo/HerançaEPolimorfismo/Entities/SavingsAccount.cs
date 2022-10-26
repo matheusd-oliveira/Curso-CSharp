@@ -17,9 +17,21 @@
         /// <summary>
         /// Método para atualizar o Saldo.
         /// </summary>
-        public void UpdateBalance() {
+        public void UpdateBalance()
+        {
 
             Balance += Balance * InterestRate;
+        }
+
+
+        /// <summary>
+        /// Sobrescrita do método Saque da Superclasse Account
+        /// </summary>
+        /// <param name="amount"></param>
+        public sealed override void Withdraw(double amount)
+        {
+            base.Withdraw(amount);
+            Balance -= 2.0;
         }
     }
 }

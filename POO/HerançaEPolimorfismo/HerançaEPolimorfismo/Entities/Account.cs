@@ -24,9 +24,9 @@
         /// <summary>
         /// Método para realização do saque.
         /// </summary>
-        public void Withdraw(double amount)
+        public virtual void Withdraw(double amount)
         {
-            Balance -= amount;
+            Balance -= amount + 5.0;
         }
 
         /// <summary>
