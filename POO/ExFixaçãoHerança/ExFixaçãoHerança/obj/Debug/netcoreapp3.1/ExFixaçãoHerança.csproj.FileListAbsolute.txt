@@ -1,0 +1,14 @@
+C:\temp\vs-2019\POO\ExFixaçãoHerança\ExFixaçãoHerança\obj\Debug\netcoreapp3.1\ExFixaçãoHerança.csproj.AssemblyReference.cache
+C:\temp\vs-2019\POO\ExFixaçãoHerança\ExFixaçãoHerança\obj\Debug\netcoreapp3.1\ExFixaçãoHerança.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\POO\ExFixaçãoHerança\ExFixaçãoHerança\obj\Debug\netcoreapp3.1\ExFixaçãoHerança.AssemblyInfoInputs.cache
+C:\temp\vs-2019\POO\ExFixaçãoHerança\ExFixaçãoHerança\obj\Debug\netcoreapp3.1\ExFixaçãoHerança.AssemblyInfo.cs
+C:\temp\vs-2019\POO\ExFixaçãoHerança\ExFixaçãoHerança\obj\Debug\netcoreapp3.1\ExFixaçãoHerança.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\POO\ExFixaçãoHerança\ExFixaçãoHerança\bin\Debug\netcoreapp3.1\ExFixaçãoHerança.exe
+C:\temp\vs-2019\POO\ExFixaçãoHerança\ExFixaçãoHerança\bin\Debug\netcoreapp3.1\ExFixaçãoHerança.deps.json
+C:\temp\vs-2019\POO\ExFixaçãoHerança\ExFixaçãoHerança\bin\Debug\netcoreapp3.1\ExFixaçãoHerança.runtimeconfig.json
+C:\temp\vs-2019\POO\ExFixaçãoHerança\ExFixaçãoHerança\bin\Debug\netcoreapp3.1\ExFixaçãoHerança.runtimeconfig.dev.json
+C:\temp\vs-2019\POO\ExFixaçãoHerança\ExFixaçãoHerança\bin\Debug\netcoreapp3.1\ExFixaçãoHerança.dll
+C:\temp\vs-2019\POO\ExFixaçãoHerança\ExFixaçãoHerança\bin\Debug\netcoreapp3.1\ExFixaçãoHerança.pdb
+C:\temp\vs-2019\POO\ExFixaçãoHerança\ExFixaçãoHerança\obj\Debug\netcoreapp3.1\ExFixaçãoHerança.dll
+C:\temp\vs-2019\POO\ExFixaçãoHerança\ExFixaçãoHerança\obj\Debug\netcoreapp3.1\ExFixaçãoHerança.pdb
+C:\temp\vs-2019\POO\ExFixaçãoHerança\ExFixaçãoHerança\obj\Debug\netcoreapp3.1\ExFixaçãoHerança.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\temp\vs-2019\POO\ExercicioClassesAbstratas\ExercicioClassesAbstratas\bin\Debug\netcoreapp3.1\ExercicioClassesAbstratas.exe
+C:\temp\vs-2019\POO\ExercicioClassesAbstratas\ExercicioClassesAbstratas\bin\Debug\netcoreapp3.1\ExercicioClassesAbstratas.deps.json
+C:\temp\vs-2019\POO\ExercicioClassesAbstratas\ExercicioClassesAbstratas\bin\Debug\netcoreapp3.1\ExercicioClassesAbstratas.runtimeconfig.json
+C:\temp\vs-2019\POO\ExercicioClassesAbstratas\ExercicioClassesAbstratas\bin\Debug\netcoreapp3.1\ExercicioClassesAbstratas.runtimeconfig.dev.json
+C:\temp\vs-2019\POO\ExercicioClassesAbstratas\ExercicioClassesAbstratas\bin\Debug\netcoreapp3.1\ExercicioClassesAbstratas.dll
+C:\temp\vs-2019\POO\ExercicioClassesAbstratas\ExercicioClassesAbstratas\bin\Debug\netcoreapp3.1\ExercicioClassesAbstratas.pdb
+C:\temp\vs-2019\POO\ExercicioClassesAbstratas\ExercicioClassesAbstratas\obj\Debug\netcoreapp3.1\ExercicioClassesAbstratas.csproj.AssemblyReference.cache
+C:\temp\vs-2019\POO\ExercicioClassesAbstratas\ExercicioClassesAbstratas\obj\Debug\netcoreapp3.1\ExercicioClassesAbstratas.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\POO\ExercicioClassesAbstratas\ExercicioClassesAbstratas\obj\Debug\netcoreapp3.1\ExercicioClassesAbstratas.AssemblyInfoInputs.cache
+C:\temp\vs-2019\POO\ExercicioClassesAbstratas\ExercicioClassesAbstratas\obj\Debug\netcoreapp3.1\ExercicioClassesAbstratas.AssemblyInfo.cs
+C:\temp\vs-2019\POO\ExercicioClassesAbstratas\ExercicioClassesAbstratas\obj\Debug\netcoreapp3.1\ExercicioClassesAbstratas.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\POO\ExercicioClassesAbstratas\ExercicioClassesAbstratas\obj\Debug\netcoreapp3.1\ExercicioClassesAbstratas.dll
+C:\temp\vs-2019\POO\ExercicioClassesAbstratas\ExercicioClassesAbstratas\obj\Debug\netcoreapp3.1\ExercicioClassesAbstratas.pdb
+C:\temp\vs-2019\POO\ExercicioClassesAbstratas\ExercicioClassesAbstratas\obj\Debug\netcoreapp3.1\ExercicioClassesAbstratas.genruntimeconfig.cache

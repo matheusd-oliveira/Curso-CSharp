@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExercicioClassesAbstratas/1.0.0": {
+        "runtime": {
+          "ExercicioClassesAbstratas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioClassesAbstratas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
