@@ -1,0 +1,14 @@
+C:\temp\vs-2019\POO\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.exe
+C:\temp\vs-2019\POO\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.deps.json
+C:\temp\vs-2019\POO\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.runtimeconfig.json
+C:\temp\vs-2019\POO\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.runtimeconfig.dev.json
+C:\temp\vs-2019\POO\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.dll
+C:\temp\vs-2019\POO\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.pdb
+C:\temp\vs-2019\POO\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.csproj.AssemblyReference.cache
+C:\temp\vs-2019\POO\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\POO\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.AssemblyInfoInputs.cache
+C:\temp\vs-2019\POO\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.AssemblyInfo.cs
+C:\temp\vs-2019\POO\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\POO\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.dll
+C:\temp\vs-2019\POO\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.pdb
+C:\temp\vs-2019\POO\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.genruntimeconfig.cache
