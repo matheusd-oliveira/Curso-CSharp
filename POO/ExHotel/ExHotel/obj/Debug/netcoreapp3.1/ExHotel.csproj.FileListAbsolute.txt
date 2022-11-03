@@ -1,0 +1,14 @@
+C:\temp\vs-2019\POO\ExHotel\ExHotel\bin\Debug\netcoreapp3.1\ExHotel.exe
+C:\temp\vs-2019\POO\ExHotel\ExHotel\bin\Debug\netcoreapp3.1\ExHotel.deps.json
+C:\temp\vs-2019\POO\ExHotel\ExHotel\bin\Debug\netcoreapp3.1\ExHotel.runtimeconfig.json
+C:\temp\vs-2019\POO\ExHotel\ExHotel\bin\Debug\netcoreapp3.1\ExHotel.runtimeconfig.dev.json
+C:\temp\vs-2019\POO\ExHotel\ExHotel\bin\Debug\netcoreapp3.1\ExHotel.dll
+C:\temp\vs-2019\POO\ExHotel\ExHotel\bin\Debug\netcoreapp3.1\ExHotel.pdb
+C:\temp\vs-2019\POO\ExHotel\ExHotel\obj\Debug\netcoreapp3.1\ExHotel.csproj.AssemblyReference.cache
+C:\temp\vs-2019\POO\ExHotel\ExHotel\obj\Debug\netcoreapp3.1\ExHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\POO\ExHotel\ExHotel\obj\Debug\netcoreapp3.1\ExHotel.AssemblyInfoInputs.cache
+C:\temp\vs-2019\POO\ExHotel\ExHotel\obj\Debug\netcoreapp3.1\ExHotel.AssemblyInfo.cs
+C:\temp\vs-2019\POO\ExHotel\ExHotel\obj\Debug\netcoreapp3.1\ExHotel.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\POO\ExHotel\ExHotel\obj\Debug\netcoreapp3.1\ExHotel.dll
+C:\temp\vs-2019\POO\ExHotel\ExHotel\obj\Debug\netcoreapp3.1\ExHotel.pdb
+C:\temp\vs-2019\POO\ExHotel\ExHotel\obj\Debug\netcoreapp3.1\ExHotel.genruntimeconfig.cache
