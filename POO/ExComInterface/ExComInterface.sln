@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExComInterface", "ExComInterface\ExComInterface.csproj", "{72545588-4A67-48D9-8AD3-57338BC2F32A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72545588-4A67-48D9-8AD3-57338BC2F32A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72545588-4A67-48D9-8AD3-57338BC2F32A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72545588-4A67-48D9-8AD3-57338BC2F32A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72545588-4A67-48D9-8AD3-57338BC2F32A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB83D7CD-F82E-4574-9FE9-371902184106}
+	EndGlobalSection
+EndGlobal
