@@ -28,11 +28,15 @@ namespace ContaBancaria03.Entities
         {
             if (Balance <= 0)
             {
-                throw new DomainException("Doesn't have Balance in your account. You can't do any Withdraw.");
+                throw new DomainException("Withdraw error: You don't have Balance in your account.");
             }
             if (amount > WithdrawLimit)
             {
-                throw new DomainException("Try to put an amount lower than the withdraw limit.");
+                throw new DomainException("Withdraw error: The amount exceeds withdraw limit.");
+            }
+            if (amount > Balance)
+            {
+                throw new DomainException("Withdraw error: Not enough balance");
             }
             Balance -= amount;
         }
