@@ -1,0 +1,14 @@
+C:\temp\vs-2019\POO\ExSemInterface\ExSemInterface\bin\Debug\netcoreapp3.1\ExSemInterface.exe
+C:\temp\vs-2019\POO\ExSemInterface\ExSemInterface\bin\Debug\netcoreapp3.1\ExSemInterface.deps.json
+C:\temp\vs-2019\POO\ExSemInterface\ExSemInterface\bin\Debug\netcoreapp3.1\ExSemInterface.runtimeconfig.json
+C:\temp\vs-2019\POO\ExSemInterface\ExSemInterface\bin\Debug\netcoreapp3.1\ExSemInterface.runtimeconfig.dev.json
+C:\temp\vs-2019\POO\ExSemInterface\ExSemInterface\bin\Debug\netcoreapp3.1\ExSemInterface.dll
+C:\temp\vs-2019\POO\ExSemInterface\ExSemInterface\bin\Debug\netcoreapp3.1\ExSemInterface.pdb
+C:\temp\vs-2019\POO\ExSemInterface\ExSemInterface\obj\Debug\netcoreapp3.1\ExSemInterface.csproj.AssemblyReference.cache
+C:\temp\vs-2019\POO\ExSemInterface\ExSemInterface\obj\Debug\netcoreapp3.1\ExSemInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\POO\ExSemInterface\ExSemInterface\obj\Debug\netcoreapp3.1\ExSemInterface.AssemblyInfoInputs.cache
+C:\temp\vs-2019\POO\ExSemInterface\ExSemInterface\obj\Debug\netcoreapp3.1\ExSemInterface.AssemblyInfo.cs
+C:\temp\vs-2019\POO\ExSemInterface\ExSemInterface\obj\Debug\netcoreapp3.1\ExSemInterface.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\POO\ExSemInterface\ExSemInterface\obj\Debug\netcoreapp3.1\ExSemInterface.dll
+C:\temp\vs-2019\POO\ExSemInterface\ExSemInterface\obj\Debug\netcoreapp3.1\ExSemInterface.pdb
+C:\temp\vs-2019\POO\ExSemInterface\ExSemInterface\obj\Debug\netcoreapp3.1\ExSemInterface.genruntimeconfig.cache
