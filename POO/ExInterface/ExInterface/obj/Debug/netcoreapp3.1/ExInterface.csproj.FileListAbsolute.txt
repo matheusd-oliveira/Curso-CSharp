@@ -1,0 +1,5 @@
+C:\temp\vs-2019\POO\ExInterface\ExInterface\obj\Debug\netcoreapp3.1\ExInterface.csproj.AssemblyReference.cache
+C:\temp\vs-2019\POO\ExInterface\ExInterface\obj\Debug\netcoreapp3.1\ExInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\POO\ExInterface\ExInterface\obj\Debug\netcoreapp3.1\ExInterface.AssemblyInfoInputs.cache
+C:\temp\vs-2019\POO\ExInterface\ExInterface\obj\Debug\netcoreapp3.1\ExInterface.AssemblyInfo.cs
+C:\temp\vs-2019\POO\ExInterface\ExInterface\obj\Debug\netcoreapp3.1\ExInterface.csproj.CoreCompileInputs.cache
