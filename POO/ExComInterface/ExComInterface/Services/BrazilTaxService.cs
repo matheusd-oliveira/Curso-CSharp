@@ -1,4 +1,6 @@
-﻿namespace ExComInterface.Services
+﻿using ExComInterface.Interfaces;
+
+namespace ExComInterface.Services
 {
     class BrazilTaxService : ITaxService
     {

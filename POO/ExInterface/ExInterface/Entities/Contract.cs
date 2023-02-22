@@ -9,7 +9,7 @@ namespace ExInterface.Entities
         public int Number { get; set; }
         public DateTime Date { get; set; }
         public double TotalValue { get; set; }
-        public List<Installment> list { get; set; } = new List<Installment>();
+        public List<Installment> Installments { get; set; } = new List<Installment>();
 
 
         public Contract(int number, DateTime date, double totalValue)
@@ -17,6 +17,12 @@ namespace ExInterface.Entities
             Number = number;
             Date = date;
             TotalValue = totalValue;
+            Installments = new List<Installment>();
+        }
+
+        public void AddInstallment(Installment installment)
+        {
+            Installments.Add(installment);
         }
     }
 }

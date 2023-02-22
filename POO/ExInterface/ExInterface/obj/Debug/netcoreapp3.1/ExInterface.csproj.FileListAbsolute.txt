@@ -3,3 +3,12 @@ C:\temp\vs-2019\POO\ExInterface\ExInterface\obj\Debug\netcoreapp3.1\ExInterface.
 C:\temp\vs-2019\POO\ExInterface\ExInterface\obj\Debug\netcoreapp3.1\ExInterface.AssemblyInfoInputs.cache
 C:\temp\vs-2019\POO\ExInterface\ExInterface\obj\Debug\netcoreapp3.1\ExInterface.AssemblyInfo.cs
 C:\temp\vs-2019\POO\ExInterface\ExInterface\obj\Debug\netcoreapp3.1\ExInterface.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\POO\ExInterface\ExInterface\bin\Debug\netcoreapp3.1\ExInterface.exe
+C:\temp\vs-2019\POO\ExInterface\ExInterface\bin\Debug\netcoreapp3.1\ExInterface.deps.json
+C:\temp\vs-2019\POO\ExInterface\ExInterface\bin\Debug\netcoreapp3.1\ExInterface.runtimeconfig.json
+C:\temp\vs-2019\POO\ExInterface\ExInterface\bin\Debug\netcoreapp3.1\ExInterface.runtimeconfig.dev.json
+C:\temp\vs-2019\POO\ExInterface\ExInterface\bin\Debug\netcoreapp3.1\ExInterface.dll
+C:\temp\vs-2019\POO\ExInterface\ExInterface\bin\Debug\netcoreapp3.1\ExInterface.pdb
+C:\temp\vs-2019\POO\ExInterface\ExInterface\obj\Debug\netcoreapp3.1\ExInterface.dll
+C:\temp\vs-2019\POO\ExInterface\ExInterface\obj\Debug\netcoreapp3.1\ExInterface.pdb
+C:\temp\vs-2019\POO\ExInterface\ExInterface\obj\Debug\netcoreapp3.1\ExInterface.genruntimeconfig.cache

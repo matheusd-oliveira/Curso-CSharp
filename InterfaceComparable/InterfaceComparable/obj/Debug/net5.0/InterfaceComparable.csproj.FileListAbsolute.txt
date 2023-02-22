@@ -1,0 +1,16 @@
+C:\temp\vs-2019\InterfaceComparable\InterfaceComparable\bin\Debug\net5.0\InterfaceComparable.exe
+C:\temp\vs-2019\InterfaceComparable\InterfaceComparable\bin\Debug\net5.0\InterfaceComparable.deps.json
+C:\temp\vs-2019\InterfaceComparable\InterfaceComparable\bin\Debug\net5.0\InterfaceComparable.runtimeconfig.json
+C:\temp\vs-2019\InterfaceComparable\InterfaceComparable\bin\Debug\net5.0\InterfaceComparable.runtimeconfig.dev.json
+C:\temp\vs-2019\InterfaceComparable\InterfaceComparable\bin\Debug\net5.0\InterfaceComparable.dll
+C:\temp\vs-2019\InterfaceComparable\InterfaceComparable\bin\Debug\net5.0\ref\InterfaceComparable.dll
+C:\temp\vs-2019\InterfaceComparable\InterfaceComparable\bin\Debug\net5.0\InterfaceComparable.pdb
+C:\temp\vs-2019\InterfaceComparable\InterfaceComparable\obj\Debug\net5.0\InterfaceComparable.csproj.AssemblyReference.cache
+C:\temp\vs-2019\InterfaceComparable\InterfaceComparable\obj\Debug\net5.0\InterfaceComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\InterfaceComparable\InterfaceComparable\obj\Debug\net5.0\InterfaceComparable.AssemblyInfoInputs.cache
+C:\temp\vs-2019\InterfaceComparable\InterfaceComparable\obj\Debug\net5.0\InterfaceComparable.AssemblyInfo.cs
+C:\temp\vs-2019\InterfaceComparable\InterfaceComparable\obj\Debug\net5.0\InterfaceComparable.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\InterfaceComparable\InterfaceComparable\obj\Debug\net5.0\InterfaceComparable.dll
+C:\temp\vs-2019\InterfaceComparable\InterfaceComparable\obj\Debug\net5.0\ref\InterfaceComparable.dll
+C:\temp\vs-2019\InterfaceComparable\InterfaceComparable\obj\Debug\net5.0\InterfaceComparable.pdb
+C:\temp\vs-2019\InterfaceComparable\InterfaceComparable\obj\Debug\net5.0\InterfaceComparable.genruntimeconfig.cache

@@ -1,5 +1,6 @@
 ﻿using System;
 using ExComInterface.Entities;
+using ExComInterface.Interfaces;
 
 namespace ExComInterface.Services
 {
