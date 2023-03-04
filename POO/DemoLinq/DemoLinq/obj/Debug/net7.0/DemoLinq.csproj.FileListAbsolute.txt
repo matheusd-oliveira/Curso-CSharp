@@ -1,0 +1,15 @@
+C:\temp\vs-2019\POO\DemoLinq\DemoLinq\bin\Debug\net7.0\DemoLinq.exe
+C:\temp\vs-2019\POO\DemoLinq\DemoLinq\bin\Debug\net7.0\DemoLinq.deps.json
+C:\temp\vs-2019\POO\DemoLinq\DemoLinq\bin\Debug\net7.0\DemoLinq.runtimeconfig.json
+C:\temp\vs-2019\POO\DemoLinq\DemoLinq\bin\Debug\net7.0\DemoLinq.dll
+C:\temp\vs-2019\POO\DemoLinq\DemoLinq\bin\Debug\net7.0\DemoLinq.pdb
+C:\temp\vs-2019\POO\DemoLinq\DemoLinq\obj\Debug\net7.0\DemoLinq.csproj.AssemblyReference.cache
+C:\temp\vs-2019\POO\DemoLinq\DemoLinq\obj\Debug\net7.0\DemoLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\POO\DemoLinq\DemoLinq\obj\Debug\net7.0\DemoLinq.AssemblyInfoInputs.cache
+C:\temp\vs-2019\POO\DemoLinq\DemoLinq\obj\Debug\net7.0\DemoLinq.AssemblyInfo.cs
+C:\temp\vs-2019\POO\DemoLinq\DemoLinq\obj\Debug\net7.0\DemoLinq.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\POO\DemoLinq\DemoLinq\obj\Debug\net7.0\DemoLinq.dll
+C:\temp\vs-2019\POO\DemoLinq\DemoLinq\obj\Debug\net7.0\refint\DemoLinq.dll
+C:\temp\vs-2019\POO\DemoLinq\DemoLinq\obj\Debug\net7.0\DemoLinq.pdb
+C:\temp\vs-2019\POO\DemoLinq\DemoLinq\obj\Debug\net7.0\DemoLinq.genruntimeconfig.cache
+C:\temp\vs-2019\POO\DemoLinq\DemoLinq\obj\Debug\net7.0\ref\DemoLinq.dll
