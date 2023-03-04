@@ -1,0 +1,15 @@
+C:\temp\vs-2019\POO\Linq\Linq\bin\Debug\net7.0\Linq.exe
+C:\temp\vs-2019\POO\Linq\Linq\bin\Debug\net7.0\Linq.deps.json
+C:\temp\vs-2019\POO\Linq\Linq\bin\Debug\net7.0\Linq.runtimeconfig.json
+C:\temp\vs-2019\POO\Linq\Linq\bin\Debug\net7.0\Linq.dll
+C:\temp\vs-2019\POO\Linq\Linq\bin\Debug\net7.0\Linq.pdb
+C:\temp\vs-2019\POO\Linq\Linq\obj\Debug\net7.0\Linq.csproj.AssemblyReference.cache
+C:\temp\vs-2019\POO\Linq\Linq\obj\Debug\net7.0\Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\POO\Linq\Linq\obj\Debug\net7.0\Linq.AssemblyInfoInputs.cache
+C:\temp\vs-2019\POO\Linq\Linq\obj\Debug\net7.0\Linq.AssemblyInfo.cs
+C:\temp\vs-2019\POO\Linq\Linq\obj\Debug\net7.0\Linq.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\POO\Linq\Linq\obj\Debug\net7.0\Linq.dll
+C:\temp\vs-2019\POO\Linq\Linq\obj\Debug\net7.0\refint\Linq.dll
+C:\temp\vs-2019\POO\Linq\Linq\obj\Debug\net7.0\Linq.pdb
+C:\temp\vs-2019\POO\Linq\Linq\obj\Debug\net7.0\Linq.genruntimeconfig.cache
+C:\temp\vs-2019\POO\Linq\Linq\obj\Debug\net7.0\ref\Linq.dll
