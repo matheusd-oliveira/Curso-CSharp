@@ -1,0 +1,15 @@
+C:\temp\vs-2019\POO\DelegatesAction\DelegatesAction\bin\Debug\net7.0\DelegatesAction.exe
+C:\temp\vs-2019\POO\DelegatesAction\DelegatesAction\bin\Debug\net7.0\DelegatesAction.deps.json
+C:\temp\vs-2019\POO\DelegatesAction\DelegatesAction\bin\Debug\net7.0\DelegatesAction.runtimeconfig.json
+C:\temp\vs-2019\POO\DelegatesAction\DelegatesAction\bin\Debug\net7.0\DelegatesAction.dll
+C:\temp\vs-2019\POO\DelegatesAction\DelegatesAction\bin\Debug\net7.0\DelegatesAction.pdb
+C:\temp\vs-2019\POO\DelegatesAction\DelegatesAction\obj\Debug\net7.0\DelegatesAction.csproj.AssemblyReference.cache
+C:\temp\vs-2019\POO\DelegatesAction\DelegatesAction\obj\Debug\net7.0\DelegatesAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\POO\DelegatesAction\DelegatesAction\obj\Debug\net7.0\DelegatesAction.AssemblyInfoInputs.cache
+C:\temp\vs-2019\POO\DelegatesAction\DelegatesAction\obj\Debug\net7.0\DelegatesAction.AssemblyInfo.cs
+C:\temp\vs-2019\POO\DelegatesAction\DelegatesAction\obj\Debug\net7.0\DelegatesAction.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\POO\DelegatesAction\DelegatesAction\obj\Debug\net7.0\DelegatesAction.dll
+C:\temp\vs-2019\POO\DelegatesAction\DelegatesAction\obj\Debug\net7.0\refint\DelegatesAction.dll
+C:\temp\vs-2019\POO\DelegatesAction\DelegatesAction\obj\Debug\net7.0\DelegatesAction.pdb
+C:\temp\vs-2019\POO\DelegatesAction\DelegatesAction\obj\Debug\net7.0\DelegatesAction.genruntimeconfig.cache
+C:\temp\vs-2019\POO\DelegatesAction\DelegatesAction\obj\Debug\net7.0\ref\DelegatesAction.dll
