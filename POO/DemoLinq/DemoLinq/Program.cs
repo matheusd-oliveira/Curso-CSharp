@@ -5,7 +5,7 @@ namespace DemoLinq
 {
     internal class Program
     {
-        // Func auxiliar
+        // Func auxiliar com generics 
         static void Print<T>(string message, IEnumerable<T> collection)
         {
             Console.WriteLine(message);
@@ -73,7 +73,7 @@ namespace DemoLinq
             Console.WriteLine();
 
             var r11 = products.Min(p => p.Price);
-            Console.WriteLine("Min price: " + r10);
+            Console.WriteLine("Min price: " + r11);
             Console.WriteLine();
 
             var r12 = products.Where(p => p.Category.Id == 1).Sum(p => p.Price);

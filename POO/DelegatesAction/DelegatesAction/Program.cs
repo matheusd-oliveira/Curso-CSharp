@@ -10,7 +10,8 @@ list.Add(new Product("HD Case", 80.90));
 // Utilizando o Action e passando a função como argumento.
 // Action<Product> act = UpdatePrice;
 
-Action<Product> act = p => { p.Price += p.Price * 0.1 };
+// Passando o UpdatePrice InLine para o proprio objeto.
+Action<Product> act = p => { p.Price += p.Price * 0.1; };
 
 foreach (Product p in list)
 {
@@ -23,3 +24,4 @@ static void UpdatePrice(Product p)
 {
     p.Price += p.Price * 0.1;
 }
+
