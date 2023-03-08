@@ -1,0 +1,15 @@
+C:\temp\vs-2019\POO\DemoAlgebraRelacionalSQL\DemoAlgebraRelacionalSQL\bin\Debug\net7.0\DemoAlgebraRelacionalSQL.exe
+C:\temp\vs-2019\POO\DemoAlgebraRelacionalSQL\DemoAlgebraRelacionalSQL\bin\Debug\net7.0\DemoAlgebraRelacionalSQL.deps.json
+C:\temp\vs-2019\POO\DemoAlgebraRelacionalSQL\DemoAlgebraRelacionalSQL\bin\Debug\net7.0\DemoAlgebraRelacionalSQL.runtimeconfig.json
+C:\temp\vs-2019\POO\DemoAlgebraRelacionalSQL\DemoAlgebraRelacionalSQL\bin\Debug\net7.0\DemoAlgebraRelacionalSQL.dll
+C:\temp\vs-2019\POO\DemoAlgebraRelacionalSQL\DemoAlgebraRelacionalSQL\bin\Debug\net7.0\DemoAlgebraRelacionalSQL.pdb
+C:\temp\vs-2019\POO\DemoAlgebraRelacionalSQL\DemoAlgebraRelacionalSQL\obj\Debug\net7.0\DemoAlgebraRelacionalSQL.csproj.AssemblyReference.cache
+C:\temp\vs-2019\POO\DemoAlgebraRelacionalSQL\DemoAlgebraRelacionalSQL\obj\Debug\net7.0\DemoAlgebraRelacionalSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\POO\DemoAlgebraRelacionalSQL\DemoAlgebraRelacionalSQL\obj\Debug\net7.0\DemoAlgebraRelacionalSQL.AssemblyInfoInputs.cache
+C:\temp\vs-2019\POO\DemoAlgebraRelacionalSQL\DemoAlgebraRelacionalSQL\obj\Debug\net7.0\DemoAlgebraRelacionalSQL.AssemblyInfo.cs
+C:\temp\vs-2019\POO\DemoAlgebraRelacionalSQL\DemoAlgebraRelacionalSQL\obj\Debug\net7.0\DemoAlgebraRelacionalSQL.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\POO\DemoAlgebraRelacionalSQL\DemoAlgebraRelacionalSQL\obj\Debug\net7.0\DemoAlgebraRelacionalSQL.dll
+C:\temp\vs-2019\POO\DemoAlgebraRelacionalSQL\DemoAlgebraRelacionalSQL\obj\Debug\net7.0\refint\DemoAlgebraRelacionalSQL.dll
+C:\temp\vs-2019\POO\DemoAlgebraRelacionalSQL\DemoAlgebraRelacionalSQL\obj\Debug\net7.0\DemoAlgebraRelacionalSQL.pdb
+C:\temp\vs-2019\POO\DemoAlgebraRelacionalSQL\DemoAlgebraRelacionalSQL\obj\Debug\net7.0\DemoAlgebraRelacionalSQL.genruntimeconfig.cache
+C:\temp\vs-2019\POO\DemoAlgebraRelacionalSQL\DemoAlgebraRelacionalSQL\obj\Debug\net7.0\ref\DemoAlgebraRelacionalSQL.dll
