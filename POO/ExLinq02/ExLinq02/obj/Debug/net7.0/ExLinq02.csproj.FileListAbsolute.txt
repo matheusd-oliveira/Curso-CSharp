@@ -1,0 +1,15 @@
+C:\temp\vs-2019\POO\ExLinq02\ExLinq02\bin\Debug\net7.0\ExLinq02.exe
+C:\temp\vs-2019\POO\ExLinq02\ExLinq02\bin\Debug\net7.0\ExLinq02.deps.json
+C:\temp\vs-2019\POO\ExLinq02\ExLinq02\bin\Debug\net7.0\ExLinq02.runtimeconfig.json
+C:\temp\vs-2019\POO\ExLinq02\ExLinq02\bin\Debug\net7.0\ExLinq02.dll
+C:\temp\vs-2019\POO\ExLinq02\ExLinq02\bin\Debug\net7.0\ExLinq02.pdb
+C:\temp\vs-2019\POO\ExLinq02\ExLinq02\obj\Debug\net7.0\ExLinq02.csproj.AssemblyReference.cache
+C:\temp\vs-2019\POO\ExLinq02\ExLinq02\obj\Debug\net7.0\ExLinq02.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\POO\ExLinq02\ExLinq02\obj\Debug\net7.0\ExLinq02.AssemblyInfoInputs.cache
+C:\temp\vs-2019\POO\ExLinq02\ExLinq02\obj\Debug\net7.0\ExLinq02.AssemblyInfo.cs
+C:\temp\vs-2019\POO\ExLinq02\ExLinq02\obj\Debug\net7.0\ExLinq02.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\POO\ExLinq02\ExLinq02\obj\Debug\net7.0\ExLinq02.dll
+C:\temp\vs-2019\POO\ExLinq02\ExLinq02\obj\Debug\net7.0\refint\ExLinq02.dll
+C:\temp\vs-2019\POO\ExLinq02\ExLinq02\obj\Debug\net7.0\ExLinq02.pdb
+C:\temp\vs-2019\POO\ExLinq02\ExLinq02\obj\Debug\net7.0\ExLinq02.genruntimeconfig.cache
+C:\temp\vs-2019\POO\ExLinq02\ExLinq02\obj\Debug\net7.0\ref\ExLinq02.dll
