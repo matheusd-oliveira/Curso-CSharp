@@ -5,6 +5,11 @@ namespace SalesWebMvc.Models
 {
     public class SalesRecord
     {
+        /// <summary>
+        /// SalesRecord = Registro de Vendas que vai ter um vendedor especifico para essa venda.
+        /// Lembrar que 1 vendedor pode ter mais de uma SalesRecord , ou seja, mais de uma venda.
+        /// Amount = Quantidade de vendas.
+        /// </summary>
         public int Id { get; set; }
         public DateTime Date { get; set; }
         public double Amount { get; set; }
