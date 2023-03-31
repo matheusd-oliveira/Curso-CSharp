@@ -1,0 +1,15 @@
+C:\temp\vs-2019\POO\ExFixacaoArquivos\ExFixacaoArquivos\bin\Debug\net7.0\ExFixacaoArquivos.exe
+C:\temp\vs-2019\POO\ExFixacaoArquivos\ExFixacaoArquivos\bin\Debug\net7.0\ExFixacaoArquivos.deps.json
+C:\temp\vs-2019\POO\ExFixacaoArquivos\ExFixacaoArquivos\bin\Debug\net7.0\ExFixacaoArquivos.runtimeconfig.json
+C:\temp\vs-2019\POO\ExFixacaoArquivos\ExFixacaoArquivos\bin\Debug\net7.0\ExFixacaoArquivos.dll
+C:\temp\vs-2019\POO\ExFixacaoArquivos\ExFixacaoArquivos\bin\Debug\net7.0\ExFixacaoArquivos.pdb
+C:\temp\vs-2019\POO\ExFixacaoArquivos\ExFixacaoArquivos\obj\Debug\net7.0\ExFixacaoArquivos.csproj.AssemblyReference.cache
+C:\temp\vs-2019\POO\ExFixacaoArquivos\ExFixacaoArquivos\obj\Debug\net7.0\ExFixacaoArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\POO\ExFixacaoArquivos\ExFixacaoArquivos\obj\Debug\net7.0\ExFixacaoArquivos.AssemblyInfoInputs.cache
+C:\temp\vs-2019\POO\ExFixacaoArquivos\ExFixacaoArquivos\obj\Debug\net7.0\ExFixacaoArquivos.AssemblyInfo.cs
+C:\temp\vs-2019\POO\ExFixacaoArquivos\ExFixacaoArquivos\obj\Debug\net7.0\ExFixacaoArquivos.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\POO\ExFixacaoArquivos\ExFixacaoArquivos\obj\Debug\net7.0\ExFixacaoArquivos.dll
+C:\temp\vs-2019\POO\ExFixacaoArquivos\ExFixacaoArquivos\obj\Debug\net7.0\refint\ExFixacaoArquivos.dll
+C:\temp\vs-2019\POO\ExFixacaoArquivos\ExFixacaoArquivos\obj\Debug\net7.0\ExFixacaoArquivos.pdb
+C:\temp\vs-2019\POO\ExFixacaoArquivos\ExFixacaoArquivos\obj\Debug\net7.0\ExFixacaoArquivos.genruntimeconfig.cache
+C:\temp\vs-2019\POO\ExFixacaoArquivos\ExFixacaoArquivos\obj\Debug\net7.0\ref\ExFixacaoArquivos.dll
