@@ -1,0 +1,15 @@
+C:\temp\vs-2019\POO\TrabalhandoComArquivos\TrabalhandoComArquivos\bin\Debug\net7.0\TrabalhandoComArquivos.exe
+C:\temp\vs-2019\POO\TrabalhandoComArquivos\TrabalhandoComArquivos\bin\Debug\net7.0\TrabalhandoComArquivos.deps.json
+C:\temp\vs-2019\POO\TrabalhandoComArquivos\TrabalhandoComArquivos\bin\Debug\net7.0\TrabalhandoComArquivos.runtimeconfig.json
+C:\temp\vs-2019\POO\TrabalhandoComArquivos\TrabalhandoComArquivos\bin\Debug\net7.0\TrabalhandoComArquivos.dll
+C:\temp\vs-2019\POO\TrabalhandoComArquivos\TrabalhandoComArquivos\bin\Debug\net7.0\TrabalhandoComArquivos.pdb
+C:\temp\vs-2019\POO\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\net7.0\TrabalhandoComArquivos.csproj.AssemblyReference.cache
+C:\temp\vs-2019\POO\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\net7.0\TrabalhandoComArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\POO\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\net7.0\TrabalhandoComArquivos.AssemblyInfoInputs.cache
+C:\temp\vs-2019\POO\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\net7.0\TrabalhandoComArquivos.AssemblyInfo.cs
+C:\temp\vs-2019\POO\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\net7.0\TrabalhandoComArquivos.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\POO\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\net7.0\TrabalhandoComArquivos.dll
+C:\temp\vs-2019\POO\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\net7.0\refint\TrabalhandoComArquivos.dll
+C:\temp\vs-2019\POO\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\net7.0\TrabalhandoComArquivos.pdb
+C:\temp\vs-2019\POO\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\net7.0\TrabalhandoComArquivos.genruntimeconfig.cache
+C:\temp\vs-2019\POO\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\net7.0\ref\TrabalhandoComArquivos.dll
