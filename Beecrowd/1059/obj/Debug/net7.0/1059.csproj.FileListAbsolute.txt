@@ -1,0 +1,15 @@
+C:\temp\vs-2019\Beecrowd\1059\bin\Debug\net7.0\1059.exe
+C:\temp\vs-2019\Beecrowd\1059\bin\Debug\net7.0\1059.deps.json
+C:\temp\vs-2019\Beecrowd\1059\bin\Debug\net7.0\1059.runtimeconfig.json
+C:\temp\vs-2019\Beecrowd\1059\bin\Debug\net7.0\1059.dll
+C:\temp\vs-2019\Beecrowd\1059\bin\Debug\net7.0\1059.pdb
+C:\temp\vs-2019\Beecrowd\1059\obj\Debug\net7.0\1059.csproj.AssemblyReference.cache
+C:\temp\vs-2019\Beecrowd\1059\obj\Debug\net7.0\1059.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\Beecrowd\1059\obj\Debug\net7.0\1059.AssemblyInfoInputs.cache
+C:\temp\vs-2019\Beecrowd\1059\obj\Debug\net7.0\1059.AssemblyInfo.cs
+C:\temp\vs-2019\Beecrowd\1059\obj\Debug\net7.0\1059.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\Beecrowd\1059\obj\Debug\net7.0\1059.dll
+C:\temp\vs-2019\Beecrowd\1059\obj\Debug\net7.0\refint\1059.dll
+C:\temp\vs-2019\Beecrowd\1059\obj\Debug\net7.0\1059.pdb
+C:\temp\vs-2019\Beecrowd\1059\obj\Debug\net7.0\1059.genruntimeconfig.cache
+C:\temp\vs-2019\Beecrowd\1059\obj\Debug\net7.0\ref\1059.dll
