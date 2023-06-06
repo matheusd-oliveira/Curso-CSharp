@@ -1,0 +1,15 @@
+C:\temp\vs-2019\POO\VehicleLocation\VehicleLocation\bin\Debug\net7.0\VehicleLocation.exe
+C:\temp\vs-2019\POO\VehicleLocation\VehicleLocation\bin\Debug\net7.0\VehicleLocation.deps.json
+C:\temp\vs-2019\POO\VehicleLocation\VehicleLocation\bin\Debug\net7.0\VehicleLocation.runtimeconfig.json
+C:\temp\vs-2019\POO\VehicleLocation\VehicleLocation\bin\Debug\net7.0\VehicleLocation.dll
+C:\temp\vs-2019\POO\VehicleLocation\VehicleLocation\bin\Debug\net7.0\VehicleLocation.pdb
+C:\temp\vs-2019\POO\VehicleLocation\VehicleLocation\obj\Debug\net7.0\VehicleLocation.csproj.AssemblyReference.cache
+C:\temp\vs-2019\POO\VehicleLocation\VehicleLocation\obj\Debug\net7.0\VehicleLocation.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\POO\VehicleLocation\VehicleLocation\obj\Debug\net7.0\VehicleLocation.AssemblyInfoInputs.cache
+C:\temp\vs-2019\POO\VehicleLocation\VehicleLocation\obj\Debug\net7.0\VehicleLocation.AssemblyInfo.cs
+C:\temp\vs-2019\POO\VehicleLocation\VehicleLocation\obj\Debug\net7.0\VehicleLocation.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\POO\VehicleLocation\VehicleLocation\obj\Debug\net7.0\VehicleLocation.dll
+C:\temp\vs-2019\POO\VehicleLocation\VehicleLocation\obj\Debug\net7.0\refint\VehicleLocation.dll
+C:\temp\vs-2019\POO\VehicleLocation\VehicleLocation\obj\Debug\net7.0\VehicleLocation.pdb
+C:\temp\vs-2019\POO\VehicleLocation\VehicleLocation\obj\Debug\net7.0\VehicleLocation.genruntimeconfig.cache
+C:\temp\vs-2019\POO\VehicleLocation\VehicleLocation\obj\Debug\net7.0\ref\VehicleLocation.dll
