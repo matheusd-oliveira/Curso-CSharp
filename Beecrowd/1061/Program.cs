@@ -8,43 +8,41 @@
  */
 
 // Criando variáveis importantes
-using System.Diagnostics;
-
-int resto, quantidadeDeDias, tempoEmSegundos, diaDeInicio, diaDoTermino, horas, minutos, segundos;
+int diaDeInicio, diaDoTermino, horas, minutos, segundos;
 
 
 // Lendo o dia de inicio do evento
-Console.Write("Dia ");
-diaDeInicio = int.Parse(Console.ReadLine());
+string[] dia = Console.ReadLine().Split(' ');
+diaDeInicio = int.Parse(dia[1]);
 
-string[] vetHorario = Console.ReadLine().Split(':');
+string[] vetHorario = Console.ReadLine().Trim().Split(':');
 horas = int.Parse(vetHorario[0]);
 minutos = int.Parse(vetHorario[1]);
 segundos = int.Parse(vetHorario[2]);
 
 // Armazenando a data inicial
-var data1 = new DateTime(2023, 04, diaDeInicio, horas, minutos, segundos);
+var data1 = new TimeSpan(diaDeInicio, horas, minutos, segundos);
 
 // Lendo o dia de término do evento
-Console.Write("Dia ");
-diaDoTermino = int.Parse(Console.ReadLine());
-vetHorario = Console.ReadLine().Split(':');
+dia = Console.ReadLine().Split(' ');
+diaDoTermino = int.Parse(dia[1]);
+vetHorario = Console.ReadLine().Trim().Split(':');
 horas = int.Parse(vetHorario[0]);
 minutos = int.Parse(vetHorario[1]);
 segundos = int.Parse(vetHorario[2]);
 
-// Armazenando a data final
-var data2 = new DateTime(2023, 04, diaDoTermino, horas, minutos, segundos);
+// Armazenando a data final em um TimeSpan
+var data2 = new TimeSpan(diaDoTermino, horas, minutos, segundos);
 
-// Criando o TimeSpan para saber a diferença entre as datas.
+// Criando o TimeSpan para saber a diferença entre as datas
 TimeSpan diferencaDosDias = data2 - data1;
 
 
-// Calculando o tempo passado
-Console.WriteLine($"{((int)Math.Abs(diferencaDosDias.TotalDays))} dia(s)");
-Console.WriteLine($"{(int)diferencaDosDias.TotalHours <= 24} hora(s)");
-Console.WriteLine($"{(int)diferencaDosDias.TotalMinutes <= 60} minuto(s)");
-Console.WriteLine($"{(int)diferencaDosDias.TotalSeconds <= 60} segundo(s)");
+// Mostrando o tempo passado
+Console.WriteLine($"{diferencaDosDias.Days} dia(s)");
+Console.WriteLine($"{diferencaDosDias.Hours} hora(s)");
+Console.WriteLine($"{diferencaDosDias.Minutes} minuto(s)");
+Console.WriteLine($"{diferencaDosDias.Seconds} segundo(s)");
 
 Console.ReadKey();
 
