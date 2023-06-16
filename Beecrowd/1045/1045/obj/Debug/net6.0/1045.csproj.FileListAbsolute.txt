@@ -1,0 +1,15 @@
+C:\temp\vs-2019\Beecrowd\1045\1045\bin\Debug\net6.0\1045.exe
+C:\temp\vs-2019\Beecrowd\1045\1045\bin\Debug\net6.0\1045.deps.json
+C:\temp\vs-2019\Beecrowd\1045\1045\bin\Debug\net6.0\1045.runtimeconfig.json
+C:\temp\vs-2019\Beecrowd\1045\1045\bin\Debug\net6.0\1045.dll
+C:\temp\vs-2019\Beecrowd\1045\1045\bin\Debug\net6.0\1045.pdb
+C:\temp\vs-2019\Beecrowd\1045\1045\obj\Debug\net6.0\1045.csproj.AssemblyReference.cache
+C:\temp\vs-2019\Beecrowd\1045\1045\obj\Debug\net6.0\1045.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\Beecrowd\1045\1045\obj\Debug\net6.0\1045.AssemblyInfoInputs.cache
+C:\temp\vs-2019\Beecrowd\1045\1045\obj\Debug\net6.0\1045.AssemblyInfo.cs
+C:\temp\vs-2019\Beecrowd\1045\1045\obj\Debug\net6.0\1045.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\Beecrowd\1045\1045\obj\Debug\net6.0\1045.dll
+C:\temp\vs-2019\Beecrowd\1045\1045\obj\Debug\net6.0\refint\1045.dll
+C:\temp\vs-2019\Beecrowd\1045\1045\obj\Debug\net6.0\1045.pdb
+C:\temp\vs-2019\Beecrowd\1045\1045\obj\Debug\net6.0\1045.genruntimeconfig.cache
+C:\temp\vs-2019\Beecrowd\1045\1045\obj\Debug\net6.0\ref\1045.dll
