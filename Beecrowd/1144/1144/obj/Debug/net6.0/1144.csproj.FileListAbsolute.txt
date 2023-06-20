@@ -1,0 +1,15 @@
+C:\temp\vs-2019\Beecrowd\1144\1144\bin\Debug\net6.0\1144.exe
+C:\temp\vs-2019\Beecrowd\1144\1144\bin\Debug\net6.0\1144.deps.json
+C:\temp\vs-2019\Beecrowd\1144\1144\bin\Debug\net6.0\1144.runtimeconfig.json
+C:\temp\vs-2019\Beecrowd\1144\1144\bin\Debug\net6.0\1144.dll
+C:\temp\vs-2019\Beecrowd\1144\1144\bin\Debug\net6.0\1144.pdb
+C:\temp\vs-2019\Beecrowd\1144\1144\obj\Debug\net6.0\1144.csproj.AssemblyReference.cache
+C:\temp\vs-2019\Beecrowd\1144\1144\obj\Debug\net6.0\1144.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\vs-2019\Beecrowd\1144\1144\obj\Debug\net6.0\1144.AssemblyInfoInputs.cache
+C:\temp\vs-2019\Beecrowd\1144\1144\obj\Debug\net6.0\1144.AssemblyInfo.cs
+C:\temp\vs-2019\Beecrowd\1144\1144\obj\Debug\net6.0\1144.csproj.CoreCompileInputs.cache
+C:\temp\vs-2019\Beecrowd\1144\1144\obj\Debug\net6.0\1144.dll
+C:\temp\vs-2019\Beecrowd\1144\1144\obj\Debug\net6.0\refint\1144.dll
+C:\temp\vs-2019\Beecrowd\1144\1144\obj\Debug\net6.0\1144.pdb
+C:\temp\vs-2019\Beecrowd\1144\1144\obj\Debug\net6.0\1144.genruntimeconfig.cache
+C:\temp\vs-2019\Beecrowd\1144\1144\obj\Debug\net6.0\ref\1144.dll
